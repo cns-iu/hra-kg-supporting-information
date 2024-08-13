@@ -1,14 +1,12 @@
 ---
 layout: default
-title: "Supporting Information"
+title: "Supporting Information for Human Reference Atlas 5-star Linked Open Data: Construction, Publication, and Usage"
 ---
 
+# Supporting Information for “Human Reference Atlas 5-star Linked Open Data: Construction, Publication, and Usage”
+Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</sup>, Ellen M Quardokus<sup>1</sup>, Mark Musen<sup>2</sup>, Katy Börner<sup>1*</sup>
 
-sup>, Daniel Bolin<sup>1</sup>, Danial Qaurooni<sup>1</sup>, Michael Ginda<sup>1</sup>, , Kristin Ardlie<sup>3</sup>, Fusheng Wang<sup>2</sup>, Katy Börner<sup>1,\*</sup>
+1 Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA
+2 Stanford Center for Biomedical Informatics Research, Stanford University, Stanford, California, USA
 
-<sup>1</sup> Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA \
-<sup>2</sup> Department of Computer Science and Department of Biomedical Informatics, Stony Brook University, Stony Brook, 11794, NY, USA \
-<sup>3</sup> Broad Institute, Cambridge, 02142, MA, USA \
-<sup>4</sup> Lead contact \
-<sup>\*</sup> Correspondence:  katy@indiana.edu, X: https://twitter.com/katycns \
-<sup>\*\*</sup> Correspondence: abueckle@iu.edu, X: https://twitter.com/AndreasBueckle  
+\* Corresponding authors
