@@ -17,7 +17,7 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 - Link to preprint: TBA
 - Link to GitHub: [https://github.com/cns-iu/hra-kg-supporting-information](https://github.com/cns-iu/hra-kg-supporting-information)
 - Link to LOD server: [https://lod.humanatlas.io](https://lod.humanatlas.io)
-- Link to HRA Dashboard with HRA KG data: [https://apps.humanatlas.io/dashboard/data](https://apps.humanatlas.io/dashboard/data)
+- Link to HRA Dashboard with HRA KG data as of HRA v2.1: [https://apps.humanatlas.io/dashboard/data](https://apps.humanatlas.io/dashboard/data)
 
 # Basic Usage
 
@@ -50,7 +50,7 @@ We provide standard queries to the SPARQL endpoint the HRA API, which points to 
 | Number of Anatomical Structures with Cell Summaries 	| 60                                                                                                                                                                    	| [Query](https://apps.humanatlas.io/api/grlc/hra-pop.html#get-/as-count) 	|   	|   	|
 
 # Resources
-In this section, we provide link to existing documentation of KG-relevant terminology and concepts:
+In this section, we provide links to existing documentation of KG-relevant terminology and concepts:
 - A good overview of RDF Graph Data Model is provided by Stardog: [https://docs.stardog.com/tutorials/rdf-graph-data-model](https://docs.stardog.com/tutorials/rdf-graph-data-model)
 Wouter Beek (co-founder of [Triply](https://triply.cc/en-US), see also [https://wouterbeek.github.io/](https://wouterbeek.github.io/)) recorded this detailed series of tutorials on SPARQL: [https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU](https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU )
 - A video about the HRA KG by co-author Mark Musen is here.
