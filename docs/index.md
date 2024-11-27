@@ -21,7 +21,7 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 
 # Basic Usage
 
-We illustrate three types of accessing the HRA KG in these two Jupyter Notebooks:
+We provide three examples of how to access the HRA KG via Jupyter Notebooks: 
 
 ## A notebook to query the HRA Knowledge Graph (KG). This notebook covers:
 
@@ -36,7 +36,7 @@ A more barebones example of accessing the first row of an ASCT+B table in JSON i
 
 # Example Queries
 
-We provide standard queries to the SPARQL endpoint the HRA API, which points to the HRA KG with data from the HRA v2.1 as of November 27, 2024, available as LOD. In this the table below, we report counts for HRA DOs. Note that they might be different from the paper because the queries results were retrieved on November 27, 2024 and the paper reports data available on December 2, 2024. To explore other queries, to read documentation, and to run the query yourself for up-to-date results, please visit [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) for HRA queries and [https://apps.humanatlas.io/api/grlc/hra-pop.html](https://apps.humanatlas.io/api/grlc/hra-pop.html) for HRApop queries.
+We provide standard queries to the SPARQL endpoint the HRA API, which points to the HRA KG with data from the HRA v2.1 as of November 27, 2024, available as LOD. In the table below, we report counts for HRA DOs. Note that they might be different from the paper because the queries results were retrieved on November 27, 2024 and the paper reports data available on December 2, 2024. To explore other queries, for additional documentation, and to query  the data yourself for up-to-date results, please visit [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) for HRA queries and [https://apps.humanatlas.io/api/grlc/hra-pop.html](https://apps.humanatlas.io/api/grlc/hra-pop.html) for HRApop queries.
 
 | Description                                         	| Count                                                                                                                                                                 	| Query 	|   	|   	|
 |-----------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------	|---	|---	|
