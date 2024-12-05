@@ -21,22 +21,28 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 
 # Basic Usage
 
-We provide three examples of how to access the HRA KG via Jupyter Notebooks: 
+## Notebook to access an ASCT+B table for the kidney
 
-## A notebook to query the HRA Knowledge Graph (KG). This notebook covers:
+This notebook exemplarily retrieves the most recent versions of all ASCT+B tables in the latest hra collection in the JSON format, which is one of the most widely used data exchange formats, and that can be read by almost every modern programming language. It then selects the table for the kidney. It then inspects the kidney table by outputting the number of rows, and finally prints a small selection of AS, CT, gene Bs, and scientific references for a particular AS-CT-B record. 
+
+The notebook is available here: [https://github.com/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-asctb-tables.ipynb](https://github.com/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-asctb-tables.ipynb)
+
+## Notebook to query the HRA Knowledge Graph (KG) 
+
+In a slightly more advanced example, we show how you can query the HRA KG in three ways: (1) getting processed HRA DOs in JSON, see also [above](#notebook-to-access-an-asctb-table-for-the-kidney), (2) running a SPARQL query via [grlc.io](https://grlc.io/), and (3) running a SPARQL query you wrote on your own. The notebook presents this across three sections, see below. To illustrate this, we get the latest ASCT+B table for the kidney, then print the first five records (Example 1). Next, we run a SPARQL query to get a CSV file of all AS-CT-B records for the lymph node (Example 2). Then, we run a SPARQL query to get all triples in the HRA KG and print the first five. Finally, the notebook shows how you can compile a table of unique CTs in the cortex of kidney first declaratively (via SPARQL), and then imperatively (via JSON and  Python):
 
 - Example 1: Get an HRA Digital Object (DO) as a JSON file
-- Example 2: Run a SPARQL query via `grlc` with `requests`
-- Example 3: Run your own SPARQL query with `requests`
-  Link: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb)
+- Example 2: Run a SPARQL query via ‘grlc’ with ‘requests’
+- Example 3: Run a SPARQL query with ‘requests’
+- Demonstration on how to use the HRA KG either declaratively (via SPARQL) or imperatively (via JSON)
 
-## A notebook to access an ASCT+B table for the kidney
-
-A more barebones example of accessing the first row of an ASCT+B table in JSON is documented here: [https://github.com/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-asctb-tables.ipynb](https://github.com/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-asctb-tables.ipynb)
+Link: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb)
 
 # Example Queries
 
-We provide standard queries to the SPARQL endpoint the HRA API, which points to the HRA KG with data from the HRA v2.1 as of November 27, 2024, available as LOD. In the table below, we report counts for HRA DOs. Note that they might be different from the paper because the queries results were retrieved on November 27, 2024 and the paper reports data available on December 2, 2024. To explore other queries, for additional documentation, and to query  the data yourself for up-to-date results, please visit [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) for HRA queries and [https://apps.humanatlas.io/api/grlc/hra-pop.html](https://apps.humanatlas.io/api/grlc/hra-pop.html) for HRApop queries.
+Frequently used queries run via the SPARQL endpoint of the HRA API are listed in Table 1. All queries use data from the HRA v2.1 as of November 27, 2024. The table reports counts for HRA DOs retrieved on November 27, 2024; note that the paper reports data available on December 2, 2024. To explore other queries, for additional documentation, and to get up-to-date results, visit [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) for HRA queries and [https://apps.humanatlas.io/api/grlc/hra-pop.html](https://apps.humanatlas.io/api/grlc/hra-pop.html) for HRApop queries.
+
+**Table 1**. Common queries run during HRA usage. 
 
 | Description                                         	| Count                                                                                                                                                                 	| Query 	|  
 |-----------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------	|
@@ -50,12 +56,11 @@ We provide standard queries to the SPARQL endpoint the HRA API, which points to 
 | Number of Anatomical Structures with Cell Summaries 	| 60                                                                                                                                                                    	| [Query](https://apps.humanatlas.io/api/grlc/hra-pop.html#get-/as-count) 	|
 
 # Resources
-In this section, we provide links to existing documentation of KG-relevant terminology and concepts:
+Additional links to documentation of KG-relevant terminology and concepts:
+
 - A good overview of RDF Graph Data Model is provided by Stardog: [https://docs.stardog.com/tutorials/rdf-graph-data-model](https://docs.stardog.com/tutorials/rdf-graph-data-model)
 - Wouter Beek (co-founder of [Triply](https://triply.cc/en-US), see also [https://wouterbeek.github.io/](https://wouterbeek.github.io/)) recorded this detailed series of tutorials on SPARQL: [https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU](https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU )
 - A video about ontologies by co-author Mark Musen is [here](https://youtu.be/PrLY3Gzj6w4?si=ToMyiT1ZJLufbxT7).
-
-
 
 # Mermaid Diagrams
 
