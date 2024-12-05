@@ -7,4 +7,4 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 
 \* Corresponding authors
 
-Here, we collect materials for the companion website at [https://cns-iu.github.io/hra-kg-supporting-information/](https://cns-iu.github.io/hra-kg-supporting-information/) as well as a Jupyter Notebook demonstrating how to access the HRA KG. Please refer to the companion website for the supporting information in this repository. 
+Here, we collect materials for the companion website at [https://cns-iu.github.io/hra-kg-supporting-information/](https://cns-iu.github.io/hra-kg-supporting-information/) as well as a [Jupyter Notebook](/notebooks/hra-kg-queries.ipynb) demonstrating how to access the HRA KG. Please refer to the companion website for the supporting information in this repository. 
