@@ -73,27 +73,33 @@ Entity relationship (ER) diagrams explain the relationships between entities wit
    
 4. `o|--||`: Represents an optional-to-mandatory relationship, where one side may or may not be required, but the other is
 
-Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 1**), *asct-b* (**Figure 2**), and *ref-organ* (**Figure 3**) DO types, as well as for a *sample* (**Figure 4**) All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). Note that in the figures in the paper, we omitted underscores in edge labels and added spaces for legibility. 
+**Figure 1** below illustrates how these ER link types are rendered in the ER diagrams in **Figures 2-5**.
+
+<img width = 25% src="images/hra_kg_legend_er_link_types.png">
+
+**Figure 1**. A legend explaining different visuals for explaining ER link types in the HRA DO types of the HRA. 
+
+Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 2**), *asct-b* (**Figure 3**), *ref-organ* (**Figure 4**), and *ds-graph* (**Figure 5**) HRA DO types. All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). Note that in the figures in the paper, we omitted underscores in edge labels and added spaces for legibility. 
 
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg?sanitize=true">
 
-**Figure 1**. An ER diagram for the *2d-ftu* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg) to download the SVG version. 
+**Figure 2**. An ER diagram for the *2d-ftu* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg) to download the SVG version. 
 
 ---
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-2.svg?sanitize=true">
 
-**Figure 2**. ER diagram for the *asct-b* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-2.svg) to download the  SVG version.
+**Figure 3**. ER diagram for the *asct-b* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-2.svg) to download the  SVG version.
 
 ---
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-9.svg?sanitize=true">
 
-**Figure 3**. ER diagram for the *ref-organ* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-9.svg) to download the SVG version.
+**Figure 4**. ER diagram for the *ref-organ* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-9.svg) to download the SVG version.
 
 ---
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg?sanitize=true">
 
-**Figure 4**. ER diagram for the *ds-graph* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg) to download the SVG version.
+**Figure 5**. ER diagram for the *ds-graph* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg) to download the SVG version.
