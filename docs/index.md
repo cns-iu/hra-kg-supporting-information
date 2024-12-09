@@ -75,7 +75,7 @@ Entity relationship (ER) diagrams explain the relationships between entities wit
    
 5. `o|--||`: Represents an optional-to-mandatory relationship, where one side may or may not be required, but the other is
 
-Exemplarily shown below are MMD diagrams for the *2d-ftu*, *asct-b*, and *ref-organ* DO types. All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). 
+Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 1**), *asct-b* (**Figure 2**), and *ref-organ* (**Figure 3**) DO types, as well as for a *sample* (**Figure 4**) All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). 
 
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg?sanitize=true">
