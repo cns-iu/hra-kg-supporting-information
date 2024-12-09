@@ -71,11 +71,9 @@ Entity relationship (ER) diagrams explain the relationships between entities wit
    
 3. `||--}o`: Represents a mandatory-to-many relationship, with one side required and the other allowing multiple occurrences.
    
-4. `||--}o{`: Represents a mandatory-to-optional many relationship, where one side is required while there may be zero or more occurrences on the other.
-   
-5. `o|--||`: Represents an optional-to-mandatory relationship, where one side may or may not be required, but the other is
+4. `o|--||`: Represents an optional-to-mandatory relationship, where one side may or may not be required, but the other is
 
-Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 1**), *asct-b* (**Figure 2**), and *ref-organ* (**Figure 3**) DO types, as well as for a *sample* (**Figure 4**) All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). 
+Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 1**), *asct-b* (**Figure 2**), and *ref-organ* (**Figure 3**) DO types, as well as for a *sample* (**Figure 4**) All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). Note that in the figures in the paper, we omitted underscores in edge labels and added spaces for legibility. 
 
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg?sanitize=true">
@@ -96,6 +94,6 @@ Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 1**), *asct-
 
 ---
 
-<img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-15.svg?sanitize=true">
+<img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg?sanitize=true">
 
-**Figure 4**. ER diagram for a *sample*. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-15.svg) to download the SVG version.
+**Figure 4**. ER diagram for the *ds-graph* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg) to download the SVG version.
