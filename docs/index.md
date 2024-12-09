@@ -75,7 +75,7 @@ Entity relationship (ER) diagrams explain the relationships between entities wit
 
 **Figure 1** below illustrates how these ER link types are rendered in the ER diagrams in **Figures 2-5**.
 
-<img width = 25% src="images/hra_kg_legend_er_link_types.png">
+<img width=25% src="images/hra_kg_legend_er_link_types.png">
 
 **Figure 1**. A legend explaining different visuals for explaining ER link types in the HRA DO types of the HRA. 
 
