@@ -1,2 +1,5 @@
 .venv
 .vscode
+
+# folder with large GLBs
+downloaded-organs
