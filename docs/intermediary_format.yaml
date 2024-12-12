@@ -4,8 +4,8 @@ data:
      label: Cell marker descriptor for Proximal Tubule  Epithelial Cell
      type_of: 
       - CellMarkerDescriptor
-     primary_cell_type: CL:0002306
      primary_anatomical_structure: UBERON:0004134
+     primary_cell_type: CL:0002306
      biomarker_set:
       - HGNC:2548
       - HGNC:6694
