@@ -1,0 +1,21 @@
+data:
+  cell_marker_descriptors:
+   - id: HRA:R15-desc
+     label: Cell marker descriptor for Proximal Tubule  Epithelial Cell
+     type_of: 
+      - CellMarkerDescriptor
+     primary_cell_type: CL:0002306
+     primary_anatomical_structure: UBERON:0004134
+     biomarker_set:
+      - HGNC:2548
+      - HGNC:6694
+      - HGNC:10916
+      - HGNC:417
+      - HGNC:4175
+     references:
+       - https://www.doi.org/10.1038/s41467-019-10861-2
+       - https://www.doi.org/10.1172/jci.insight.13326
+       - https://www.doi.org/10.1038/s41586-020-2941-1
+       - https://www.doi.org/10.1073/pnas.2005477117
+       - https://www.doi.org/10.1681/ASN.2020010071
+     derived_from: https://lod.humanatlas.io/asct-b/kidney/v1.5
