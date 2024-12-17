@@ -59,9 +59,9 @@ Frequently used queries run via the SPARQL endpoint of the HRA API are listed in
 Additional links to documentation of KG-relevant terminology and concepts:
 
 - A good overview of RDF Graph Data Model is provided by Stardog: [https://docs.stardog.com/tutorials/rdf-graph-data-model](https://docs.stardog.com/tutorials/rdf-graph-data-model)
-- Wouter Beek (co-founder of [Triply](https://triply.cc/en-US), see also [https://wouterbeek.github.io/](https://wouterbeek.github.io/)) recorded this detailed series of tutorials on SPARQL: [https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU](https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU)
-- A video about ontologies by co-author Mark Musen is [here](https://youtu.be/PrLY3Gzj6w4?si=ToMyiT1ZJLufbxT7)
-- A talk titled "FAIR Data Knowledge Graphs – From Theory to Practice" by Tom Plasterer, Ph.D., Senior Director of Bioinformatics and BioPharmaceutical R\&D at AstraZeneca is available at [https://www.youtube.com/watch?v=Z0U2O2FjL6w](https://www.youtube.com/watch?v=Z0U2O2FjL6w)
+- Wouter Beek (co-founder of [Triply](https://triply.cc/en-US), see also [https://wouterbeek.github.io/](https://wouterbeek.github.io/)) recorded this detailed series of tutorials about SPARQL on [YouTube](https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU).
+- A video about ontologies by co-author Mark Musen is [here](https://youtu.be/PrLY3Gzj6w4?si=ToMyiT1ZJLufbxT7).
+- A talk titled "FAIR Data Knowledge Graphs – From Theory to Practice" by Tom Plasterer, Ph.D., Senior Director of Bioinformatics and BioPharmaceutical R\&D at [AstraZeneca](https://www.astrazeneca.com/) is available on [YouTube](https://www.youtube.com/watch?v=Z0U2O2FjL6w).
 
 # Mermaid Diagrams
 
