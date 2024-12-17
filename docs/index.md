@@ -17,7 +17,7 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 - Link to preprint: TBA
 - Link to GitHub: [https://github.com/cns-iu/hra-kg-supporting-information](https://github.com/cns-iu/hra-kg-supporting-information)
 - Link to LOD server: [https://lod.humanatlas.io](https://lod.humanatlas.io)
-- Link to HRA Dashboard with HRA KG data as of HRA v2.1: [https://apps.humanatlas.io/dashboard/data](https://apps.humanatlas.io/dashboard/data)
+- Link to HRA Dashboard with HRA KG data as of HRA v2.2: [https://apps.humanatlas.io/dashboard/data](https://apps.humanatlas.io/dashboard/data)
 
 # Basic Usage
 
