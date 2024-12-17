@@ -15,4 +15,4 @@ Here, we collect materials for the companion website at [https://cns-iu.github.i
 |-------------------	|-------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|
 | hra-kg            	| Human Reference Atlas Knowledge Graph                                                           	| https://github.com/hubmapconsortium/hra-kg                        	|
 | hra-do-processor  	| HRA Digital Objects Processor                                                                   	| https://github.com/hubmapconsortium/hra-do-processor              	|
-| hra-ubkg-exporter 	| A CLI for exporting a subset of the HRA KG to Unified Biomedical Knowledge Graph (UBKG) format  	| Exporter: https://github.com/x-atlas-consortia/hra-ubkg-exporter  	|
+| hra-ubkg-exporter 	| A CLI for exporting a subset of the HRA KG to Unified Biomedical Knowledge Graph (UBKG) format  	| https://github.com/x-atlas-consortia/hra-ubkg-exporter  	|
