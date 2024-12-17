@@ -11,9 +11,8 @@ Here, we collect materials for the companion website at [https://cns-iu.github.i
 
 ## GitHub Repositories Used for HRA KG Construction
 
-| hra-kg            	| Human Reference Atlas Knowledge Graph                                                              	| https://github.com/hubmapconsortium/hra-kg                        	|
-|-------------------	|----------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|
-| hra-api           	| Human Reference Atlas API                                                                          	| https://github.com/x-atlas-consortia/hra-api                      	|
-| hra-do-processor  	| HRA Digital Objects Processor                                                                      	| https://github.com/hubmapconsortium/hra-do-processor              	|
-| ccf-grlc          	| Repository of canned SPARQL queries that can be run like a REST API endpoint via https://grlc.io/  	| https://github.com/hubmapconsortium/ccf-grlc                      	|
-| hra-ubkg-exporter 	| A CLI for exporting a subset of the HRA KG to Unified Biomedical Knowledge Graph (UBKG) format     	| Exporter: https://github.com/x-atlas-consortia/hra-ubkg-exporter  	|
+| Name              	| Description                                                                                     	| URL                                                               	|
+|-------------------	|-------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|
+| hra-kg            	| Human Reference Atlas Knowledge Graph                                                           	| https://github.com/hubmapconsortium/hra-kg                        	|
+| hra-do-processor  	| HRA Digital Objects Processor                                                                   	| https://github.com/hubmapconsortium/hra-do-processor              	|
+| hra-ubkg-exporter 	| A CLI for exporting a subset of the HRA KG to Unified Biomedical Knowledge Graph (UBKG) format  	| Exporter: https://github.com/x-atlas-consortia/hra-ubkg-exporter  	|
