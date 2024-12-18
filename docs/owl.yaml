@@ -1,0 +1,32 @@
+classes:
+  CellMarkerDescriptor:
+    slots: 
+      - type_of
+      - primary_cell_type
+    annotations:
+      owl:Class
+
+slots:
+  type_of:
+   annotations:
+    owl:ClassAssertion
+  primary_cell_type:
+   annotations:
+    owl:AnnotationProperty
+    owl:AnnotationAssertion
+
+data:
+  cell_marker_descriptors:
+   -id: HRA:R15-desc
+   type_of:
+    - CellMarkerDescriptor
+  primary_cell_type: CL:0002306
+
+:CellMarkerDescriptor
+  rdf:type owl:Class
+
+:primary_cell_type
+  rdf:type owl:AnnotationProperty
+
+HRA:R15-desc a :CellMarkerDescriptor ;
+  :primary_cell_type obo:CL_0002306
