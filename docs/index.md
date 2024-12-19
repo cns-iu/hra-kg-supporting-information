@@ -3,7 +3,7 @@ layout: default
 title: Supporting Information for "Construction, Publication, and Usage of the Human Reference Atlas Knowledge Graph for 5-Star Linked Open Data"
 ---
 
-# Supporting Information for “Human Reference Atlas 5-star Linked Open Data: Construction, Publication, and Usage”
+# Supporting Information for “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data”
 
 Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</sup>, Ellen M Quardokus<sup>1</sup>, Mark Musen<sup>2</sup>, Katy Börner<sup>1\*</sup>
 
@@ -39,6 +39,7 @@ In a slightly more advanced example, we show how you can query the HRA KG in thr
 Link: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb)
 
 # How to Run Queries via our OpenAPI Spec
+
 The query interface at [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) documents a growing number of canned, curated SPARQL queries. Each query has its own row, see **Figure 1**.
 
 <img width="250" src="images/hra_kg_companion_website_figures_Figure 1.jpg">
