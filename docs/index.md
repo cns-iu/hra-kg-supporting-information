@@ -38,6 +38,35 @@ In a slightly more advanced example, we show how you can query the HRA KG in thr
 
 Link: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/hra-kg-queries.ipynb)
 
+# How to Run Queries via our OpenAPI Spec
+The query interface at [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) documents a growing number of canned, curated SPARQL queries. Each query has its own row, see **Figure 1**.
+
+<img width="250" src="images/hra_kg_companion_website_figures_Figure 1.jpg">
+
+**Figure 1**. The row containing the query to get AS, CT, and B counts for all ASCT+B tables in the latest HRA release. 
+
+When you click on a row, it expands to reveal the entire documentation for the query, see **Figure 2**.
+
+<img width="75%" src="images/hra_kg_companion_website_figures_Figure 2. exapnded.png">
+
+**Figure 2**. The expanded query documentation for [https://apps.humanatlas.io/api/grlc/hra.html#get-/as-ct-b-counts](https://apps.humanatlas.io/api/grlc/hra.html#get-/as-ct-b-counts). 
+
+The documentation presents four major parts: (1) the pre-made, canned SPARQL query to be run, (2) query string parameters that allow you to customize the query (in this case, you do not need to provide anything as there is a default that can be used), (3) buttons to pre-fill any required fields with examples (see second example below), clear all the fields, and running the query, and (4) the response once the query is run, see **Figure 3**, by pressing the Try button (**Figure 2 (3), right**). 
+
+<img width="75%" src="images/hra_kg_companion_website_figures_Figure 3. response.png">
+
+**Figure 3**. The query response for [https://apps.humanatlas.io/api/grlc/hra.html#get-/as-ct-b-counts](https://apps.humanatlas.io/api/grlc/hra.html#get-/as-ct-b-counts). 
+
+Once the query is run, the response is printed in the response area (1). You can copy it to your clipboard with the copy button (2).  
+
+Some queries require you to specify query parameters before running it. The query at [https://apps.humanatlas.io/api/grlc/hra.html#get-/asctb-in-table](https://apps.humanatlas.io/api/grlc/hra.html#get-/asctb-in-table), for instance, requires a PURL for an ASCT+B table to be filled into the *asctb* query parameter, see the entire workflow in **Figure 4**. 
+
+<img width="75%" src="images/hra_kg_companion_website_figures_Figure 4. query_parameters.png">
+
+**Figure 4**. Filling in defaults for [https://apps.humanatlas.io/api/grlc/hra.html#get-/asctb-in-table](https://apps.humanatlas.io/api/grlc/hra.html#get-/asctb-in-table), then running the query and inspecting the result. 
+
+The query needs to know which table you would like. It thus presents a query parameter that requires an identifier for an ASCT+B table (1), see **Figure 4**. The default value for the *asctb* query parameter is the PURL for the lymph node. Clicking the Fill Example button (2) will fill this default value in for you (3). When you then run the query, you get your response in the response field (4). Of course, you can add any other PURL. For example, the one for the brain is [https://purl.humanatlas.io/asct-b/allen-brain](https://purl.humanatlas.io/asct-b/allen-brain). 
+
 # Example Queries
 
 Frequently used queries run via the SPARQL endpoint of the HRA API are listed in Table 1. All queries use data from the HRA v2.2 and the table reports counts for HRA DOs retrieved on December 17, 2024; note that the paper reports data available on December 17, 2024. To explore other queries, for additional documentation, and to get up-to-date results, visit [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) for HRA queries and [https://apps.humanatlas.io/api/grlc/hra-pop.html](https://apps.humanatlas.io/api/grlc/hra-pop.html) for HRApop queries.
@@ -74,33 +103,33 @@ Entity relationship (ER) diagrams explain the relationships between entities wit
    
 4. `o|--||`: Represents an optional-to-mandatory relationship, where one side may or may not be required, but the other is
 
-**Figure 1** below illustrates how these ER link types are rendered in the ER diagrams in **Figures 2-5**.
+**Figure 5** below illustrates how these ER link types are rendered in the ER diagrams in **Figures 6-9**.
 
 <img width="250" src="images/hra_kg_legend_er_link_types.png">
 
-**Figure 1**. A legend explaining different visuals for explaining ER link types in the HRA DO types of the HRA. 
+**Figure 5**. A legend explaining different visuals for explaining ER link types in the HRA DO types of the HRA. 
 
-Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 2**), *asct-b* (**Figure 3**), *ref-organ* (**Figure 4**), and *ds-graph* (**Figure 5**) HRA DO types. All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). Note that in the figures in the paper, we omitted underscores in edge labels and added spaces for legibility. 
+Exemplarily shown below are MMD diagrams for the *2d-ftu* (**Figure 6**), *asct-b* (**Figure 7**), *ref-organ* (**Figure 8**), and *ds-graph* (**Figure 9**) HRA DO types. All MMD diagrams are available at [https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/](https://github.com/hubmapconsortium/hra-do-processor/blob/main/er-diagrams.md/). Note that in the figures in the paper, we omitted underscores in edge labels and added spaces for legibility. 
 
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg?sanitize=true">
 
-**Figure 2**. An ER diagram for the *2d-ftu* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg) to download the SVG version. 
+**Figure 6**. An ER diagram for the *2d-ftu* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-1.svg) to download the SVG version. 
 
 ---
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-2.svg?sanitize=true">
 
-**Figure 3**. ER diagram for the *asct-b* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-2.svg) to download the  SVG version.
+**Figure 7**. ER diagram for the *asct-b* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-2.svg) to download the  SVG version.
 
 ---
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-9.svg?sanitize=true">
 
-**Figure 4**. ER diagram for the *ref-organ* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-9.svg) to download the SVG version.
+**Figure 8**. ER diagram for the *ref-organ* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/e138a5e639a3e2a39e5117e53f8fef049274b457/docs/er-diagrams/index-9.svg) to download the SVG version.
 
 ---
 
 <img src="https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg?sanitize=true">
 
-**Figure 5**. ER diagram for the *ds-graph* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg) to download the SVG version.
+**Figure 9**. ER diagram for the *ds-graph* HRA DO type. Click [here](https://raw.githubusercontent.com/hubmapconsortium/hra-do-processor/refs/heads/main/docs/er-diagrams/index-10.svg) to download the SVG version.
