@@ -3,3 +3,6 @@
 
 # folder with large GLBs
 downloaded-organs
+
+# folder with validation reports
+notebooks/data/validation-reports
