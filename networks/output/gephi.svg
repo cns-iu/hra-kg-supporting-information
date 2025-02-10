@@ -1,0 +1,2384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2897.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1128.000000 -514.000000 2897.000000 1875.000000" height="1875.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.44853336"
+              d="M 88.747513,482.082520 L 48.314011,603.372864"
+              class="id_HRA_KG id_CCF" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 82.811417,433.676239 L 30.924538,351.975616"
+              class="id_HRA_KG id_CL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 78.620453,436.959686 L -86.282242,264.611694"
+              class="id_HRA_KG id_FMA" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 84.909454,432.472168 L -30.447559,208.819305"
+              class="id_HRA_KG id_HGNC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 110.817352,479.833038 L 161.971893,568.164124"
+              class="id_HRA_KG id_HRAVS" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 98.205246,483.452637 L 103.159439,628.930481"
+              class="id_HRA_KG id_LMHA" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 115.345917,476.539429 L 275.711060,654.766479"
+              class="id_HRA_KG id_PCL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 112.340225,478.882111 L 247.675552,680.383301"
+              class="id_HRA_KG id_RO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 112.924812,434.458344 L 235.936371,261.329498"
+              class="id_HRA_KG id_Uberon" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 102.791504,482.901093 L 125.762314,593.193665"
+              class="id_HRA_KG id_VCCF" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 236.839554,193.191177 L 243.358963,213.599945"
+              class="id_SPARC_KG id_Uberon" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 207.122498,151.140549 L 96.411209,67.050690"
+              class="id_SPARC_KG id_CHEBI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 253.036224,155.937897 L 337.407776,116.076813"
+              class="id_SPARC_KG id_EMAPA" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 214.178024,144.660934 L 187.216248,102.086349"
+              class="id_SPARC_KG id_NPO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -221.302948,-78.410500 L 229.163879,224.261444"
+              class="id_Petagraph id_Uberon" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.902832,-85.544861 L 42.549404,-5.588594"
+              class="id_Petagraph id_PATO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -229.560577,-70.475540 L 2.296251,306.190491"
+              class="id_Petagraph id_CL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.703278,-92.708977 L -668.348083,-81.516808"
+              class="id_Petagraph id_DOID" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.052246,-87.527718 L -714.540039,12.731514"
+              class="id_Petagraph id_OBI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -252.942978,-118.842331 L -357.254669,-405.630798"
+              class="id_Petagraph id_OBIB" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -216.753922,-94.937073 L 132.083221,-113.937393"
+              class="id_Petagraph id_EDAM" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.504333,-101.459686 L -326.195038,-119.025139"
+              class="id_Petagraph id_HSAPDV" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -242.386612,-120.435974 L -238.307922,-203.302155"
+              class="id_Petagraph id_SBO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -263.032288,-112.331345 L -362.711884,-209.660110"
+              class="id_Petagraph id_MI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -219.115463,-82.336960 L 50.311588,39.588020"
+              class="id_Petagraph id_CHEBI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -223.621613,-111.504639 L -77.724915,-242.469757"
+              class="id_Petagraph id_MP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -254.718887,-68.813164 L -384.639343,222.260803"
+              class="id_Petagraph id_ORDO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -249.300110,-119.884430 L -260.980408,-175.118179"
+              class="id_Petagraph id_UNIPROTKB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -232.079376,-117.833275 L -103.942413,-386.172302"
+              class="id_Petagraph id_UO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.899902,-100.048622 L -648.462646,-195.173843"
+              class="id_Petagraph id_MONDO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.708984,-93.986557 L -814.506958,-104.419991"
+              class="id_Petagraph id_EFO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -220.751923,-79.264938 L -156.687057,-39.636185"
+              class="id_Petagraph id_PGO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.875610,-100.144562 L -456.067780,-147.657150"
+              class="id_Petagraph id_GENCODE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -254.723175,-68.815071 L -357.978607,162.410721"
+              class="id_Petagraph id_HCOP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -244.977997,-66.498230 L -258.285431,217.437805"
+              class="id_Petagraph id_MPMGI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -235.846375,-67.640320 L -157.428696,189.795273"
+              class="id_Petagraph id_HGNCHPO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -244.866150,-66.493217 L -254.538284,159.952667"
+              class="id_Petagraph id_HPOMP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -228.008743,-71.506241 L -106.603790,98.268066"
+              class="id_Petagraph id_RATHCOP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -220.260193,-106.844757 L 219.805023,-357.822479"
+              class="id_Petagraph id_GENCODEHSCLO38" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -241.565796,-66.554214 L -226.567062,121.366196"
+              class="id_Petagraph id_LINCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.751038,-110.393196 L -633.796021,-407.294250"
+              class="id_Petagraph id_CLINVAR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -257.362823,-70.172523 L -336.448456,64.811966"
+              class="id_Petagraph id_CMAP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.682892,-86.300407 L 274.869446,49.334457"
+              class="id_Petagraph id_STRING" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -229.853134,-116.639236 L -51.101986,-415.450531"
+              class="id_Petagraph id_MGI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -226.325912,-114.124275 L -9.892257,-371.230835"
+              class="id_Petagraph id_HSCL038" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -221.169220,-108.325775 L 19.147114,-266.696167"
+              class="id_Petagraph id_MSIGDB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -244.584885,-120.454567 L -255.093430,-446.065887"
+              class="id_Petagraph id_AZ" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.544464,-100.113747 L -25.071156,-148.987823"
+              class="id_Petagraph id_GTEXCOEXP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -229.199585,-116.235542 L -218.568207,-132.911667"
+              class="id_Petagraph id_GTEXEXP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.085388,-89.005569 L 237.727722,-12.777199"
+              class="id_Petagraph id_GTEXEQTL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -219.157104,-104.691856 L 155.209503,-275.788940"
+              class="id_Petagraph id_GLYGEN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -236.854843,-119.582840 L -154.516525,-433.063995"
+              class="id_Petagraph id_ASP2019" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -219.478470,-81.567314 L -32.741707,10.133420"
+              class="id_Petagraph id_KF" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.656189,-91.703506 L -347.199860,-86.688774"
+              class="id_Petagraph id_4DN" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -248.475037,-120.045532 L -294.392120,-376.360443"
+              class="id_Petagraph id_AIR" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.123810,-111.144547 L -411.054230,-238.393524"
+              class="id_Petagraph id_ALT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -246.940506,-66.662102 L -266.189545,93.261040"
+              class="id_Petagraph id_AOD" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -232.968002,-68.699196 L -224.872925,-50.040024"
+              class="id_Petagraph id_AOT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -218.248322,-102.440887 L -13.097798,-174.721283"
+              class="id_Petagraph id_ATC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.120544,-102.606789 L -464.388763,-172.840378"
+              class="id_Petagraph id_BI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -250.707336,-67.390038 L -304.232086,132.205780"
+              class="id_Petagraph id_CCC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -229.245331,-116.264648 L -155.554596,-232.368011"
+              class="id_Petagraph id_CCPSS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -222.696777,-110.417908 L -152.591095,-166.954605"
+              class="id_Petagraph id_CCS" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -267.165344,-80.088287 L -358.922852,-27.735439"
+              class="id_Petagraph id_CCSR_ICD10CM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.214127,-88.295753 L -82.183449,-61.937267"
+              class="id_Petagraph id_CCSR_ICD10PCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -267.847870,-105.574554 L -647.087952,-295.807068"
+              class="id_Petagraph id_CDCREC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.681122,-94.799637 L -600.762390,-111.091454"
+              class="id_Petagraph id_CDT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.344788,-76.051109 L -488.935577,113.559082"
+              class="id_Petagraph id_CHV" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -220.827713,-79.143127 L 41.687675,85.176666"
+              class="id_Petagraph id_COSTAR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -260.069061,-71.985817 L -417.118561,134.302368"
+              class="id_Petagraph id_CPM" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -249.676163,-119.802101 L -320.583466,-432.980988"
+              class="id_Petagraph id_CPT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -268.073090,-81.822456 L -571.365723,63.182644"
+              class="id_Petagraph id_CSP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -231.309067,-69.486984 L -184.998795,20.041929"
+              class="id_Petagraph id_CST" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -227.460022,-115.028061 L -85.039665,-303.936462"
+              class="id_Petagraph id_CVX" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.079803,-111.195206 L -473.516876,-293.490753"
+              class="id_Petagraph id_DDB" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.983948,-99.704613 L -790.833862,-223.344315"
+              class="id_Petagraph id_DRUGBANK" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -251.553619,-119.305412 L -309.285767,-309.570648"
+              class="id_Petagraph id_DSM-5" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -268.167145,-82.021278 L -467.471069,11.279463"
+              class="id_Petagraph id_DXP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -233.474487,-68.485565 L -115.187569,220.120026"
+              class="id_Petagraph id_FMA" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -255.176071,-117.914886 L -403.378906,-434.000366"
+              class="id_Petagraph id_GO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.505432,-85.481102 L -579.214233,10.434566"
+              class="id_Petagraph id_GS" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -234.670532,-68.028168 L -156.712387,151.279404"
+              class="id_Petagraph id_HCDT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -219.044357,-104.441818 L 61.502979,-229.231094"
+              class="id_Petagraph id_HCPCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -247.103790,-66.682266 L -259.715881,32.977921"
+              class="id_Petagraph id_HCPT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -227.910828,-71.576584 L -58.627544,162.931168"
+              class="id_Petagraph id_HGNC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -216.743576,-94.732925 L -28.015991,-103.580040"
+              class="id_Petagraph id_HL7V2.5" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -258.089844,-116.323242 L -402.836029,-346.439117"
+              class="id_Petagraph id_HL7V3.0" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.706970,-92.854919 L -584.458984,-85.721611"
+              class="id_Petagraph id_HPO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -218.591400,-103.360916 L 33.436623,-202.599838"
+              class="id_Petagraph id_ICD10" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -223.541977,-111.415520 L 17.408194,-325.787567"
+              class="id_Petagraph id_ICD10AE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.706238,-94.114029 L -468.983978,-98.855011"
+              class="id_Petagraph id_ICD10AM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -241.509766,-120.378494 L -218.270386,-404.097046"
+              class="id_Petagraph id_ICD10AMAE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -268.921875,-103.141350 L -645.136536,-247.501801"
+              class="id_Petagraph id_ICD10CM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -264.505981,-76.243881 L -460.201965,85.876518"
+              class="id_Petagraph id_ICD10PCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -217.682312,-100.634758 L 161.810638,-205.103699"
+              class="id_Petagraph id_ICD9CM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -238.226685,-67.032097 L -209.633713,70.722534"
+              class="id_Petagraph id_ICF" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.525299,-110.670006 L -319.027496,-155.718170"
+              class="id_Petagraph id_ICF-CY" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -268.476715,-82.707314 L -541.560608,35.968430"
+              class="id_Petagraph id_ICNP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -222.097198,-109.646240 L 23.346781,-293.332428"
+              class="id_Petagraph id_ICPC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.262024,-88.549278 L -668.258606,-14.800767"
+              class="id_Petagraph id_ICPC2EENG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -216.730957,-92.510742 L 296.939850,-74.275818"
+              class="id_Petagraph id_ICPC2ICD10ENG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -223.591919,-75.465736 L 13.634512,136.777298"
+              class="id_Petagraph id_ICPC2P" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -245.003876,-66.499451 L -247.675049,-10.651438"
+              class="id_Petagraph id_JABL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.628601,-85.890259 L -520.803589,-12.437739"
+              class="id_Petagraph id_LCH" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -229.060837,-116.146492 L -130.520813,-268.651733"
+              class="id_Petagraph id_LCH_NW" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -219.878571,-80.784988 L -88.132919,-10.678593"
+              class="id_Petagraph id_LNC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -267.421692,-106.389267 L -520.876160,-244.521194"
+              class="id_Petagraph id_MCM" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -256.141357,-69.498642 L -346.522827,104.829262"
+              class="id_Petagraph id_MDR" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -260.277985,-114.790749 L -420.030487,-320.432953"
+              class="id_Petagraph id_MED-RT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -247.174667,-120.245911 L -275.122711,-336.494507"
+              class="id_Petagraph id_MEDCIN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.397705,-87.430847 L 26.550514,-31.461458"
+              class="id_Petagraph id_MEDLINEPLUS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.890137,-110.218811 L -532.001160,-321.501343"
+              class="id_Petagraph id_MMSL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -266.770996,-107.517570 L -534.529297,-270.666107"
+              class="id_Petagraph id_MMX" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -220.886597,-79.049469 L 82.738953,112.738953"
+              class="id_Petagraph id_MSH" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -216.722122,-92.804573 L -138.559113,-90.881638"
+              class="id_Petagraph id_MTH" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -260.990631,-114.217522 L -479.069733,-376.125763"
+              class="id_Petagraph id_MTHCMSFRF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -239.073441,-120.066849 L -196.237930,-365.588959"
+              class="id_Petagraph id_MTHICD9" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -253.713531,-118.548660 L -309.353516,-258.100006"
+              class="id_Petagraph id_MTHICPC2EAE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.251190,-88.491104 L -942.888550,37.673695"
+              class="id_Petagraph id_MTHICPC2ICD10AE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.276306,-102.161522 L -617.983093,-220.745087"
+              class="id_Petagraph id_MTHMST" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -223.806458,-111.708450 L -118.156357,-208.508148"
+              class="id_Petagraph id_MTHSPL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -266.001953,-78.229019 L -396.240479,10.822642"
+              class="id_Petagraph id_MVX" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.406693,-87.391792 L 251.627335,20.952406"
+              class="id_Petagraph id_NANDA-I" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.531174,-100.061195 L -133.236450,-121.285797"
+              class="id_Petagraph id_NCBI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -221.219833,-108.402283 L -24.140991,-239.241302"
+              class="id_Petagraph id_NCI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -219.915436,-80.715950 L 164.210388,125.121689"
+              class="id_Petagraph id_NDDF" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -257.938080,-116.418007 L -314.688782,-207.980270"
+              class="id_Petagraph id_NEU" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.645020,-110.524139 L -456.272003,-266.669922"
+              class="id_Petagraph id_NIC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -266.242401,-78.586800 L -476.133057,60.062534"
+              class="id_Petagraph id_NOC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -216.875870,-96.421104 L 174.456757,-139.471954"
+              class="id_Petagraph id_NUCCHCPT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -230.521866,-117.026390 L -105.352394,-340.547607"
+              class="id_Petagraph id_OMIM" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -248.499786,-66.896156 L -305.180389,247.812515"
+              class="id_Petagraph id_OMS" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -224.771698,-74.228279 L -100.108139,52.397026"
+              class="id_Petagraph id_ORPHANET" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -255.867981,-69.358879 L -248.597290,-83.781631"
+              class="id_Petagraph id_PCDS" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.404846,-97.542435 L -748.981018,-170.587219"
+              class="id_Petagraph id_PDQ" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -267.603210,-80.886742 L -726.984985,161.058365"
+              class="id_Petagraph id_PNDS" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -224.580704,-74.418190 L -162.705795,-12.811100"
+              class="id_Petagraph id_PPAC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -269.073212,-102.737320 L -513.852417,-192.203125"
+              class="id_Petagraph id_PSY" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -260.029541,-114.981438 L -393.686584,-291.214020"
+              class="id_Petagraph id_QMR" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -260.467834,-72.295334 L -324.040100,8.046377"
+              class="id_Petagraph id_RAM" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -220.125641,-106.606010 L -83.063744,-182.941910"
+              class="id_Petagraph id_RCD" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -259.676208,-71.692345 L -456.808838,197.242798"
+              class="id_Petagraph id_RCDAE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -256.995178,-116.976257 L -452.692017,-463.357635"
+              class="id_Petagraph id_RCDSA" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.112030,-98.087906 L 176.461121,-166.429855"
+              class="id_Petagraph id_RCDSY" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -251.700577,-67.676880 L -331.180542,188.993378"
+              class="id_Petagraph id_RXNORM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -232.605591,-68.859596 L -145.707809,123.650177"
+              class="id_Petagraph id_SNM" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -268.488159,-82.733643 L -646.813110,81.199463"
+              class="id_Petagraph id_SNMI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -263.957092,-75.602005 L -540.572510,168.539169"
+              class="id_Petagraph id_SNOMEDCT_US" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.583801,-96.116707 L -719.308777,-140.339584"
+              class="id_Petagraph id_SNOMEDCT_VET" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -236.252396,-119.417130 L -180.621140,-312.881470"
+              class="id_Petagraph id_SOP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -267.216370,-106.759071 L -407.235474,-185.938873"
+              class="id_Petagraph id_SPN" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.598740,-100.323959 L 75.661957,-177.305969"
+              class="id_Petagraph id_SRC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -217.777863,-85.964035 L 124.083771,12.953348"
+              class="id_Petagraph id_ULT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -241.594589,-120.385315 L -228.738525,-283.661804"
+              class="id_Petagraph id_UMD" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -265.599884,-77.657021 L -559.507813,134.678314"
+              class="id_Petagraph id_USP" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -270.143402,-98.989845 L -602.602478,-168.441925"
+              class="id_Petagraph id_USPMG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -267.748749,-105.770218 L -484.668884,-216.795288"
+              class="id_Petagraph id_UWDA" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -216.716461,-93.100746 L 96.558304,-88.831955"
+              class="id_Petagraph id_VANDF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -264.503113,-76.240410 L -399.526337,35.654922"
+              class="id_Petagraph id_WHO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.075500,-41.735825 L 226.301620,229.818893"
+              class="id_Data_Distillery id_Uberon" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.459473,-48.793766 L 41.471252,-0.107569"
+              class="id_Data_Distillery id_PATO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -499.306030,-35.644241 L -5.593075,313.591309"
+              class="id_Data_Distillery id_CL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.968323,-55.753040 L -668.717834,-76.240623"
+              class="id_Data_Distillery id_DOID" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.075745,-43.043770 L -715.151367,10.479680"
+              class="id_Data_Distillery id_OBI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -511.153564,-76.237663 L -376.678864,-406.003357"
+              class="id_Data_Distillery id_OBIB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.468048,-53.771683 L 132.162537,-112.870659"
+              class="id_Data_Distillery id_EDAM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.703308,-62.263824 L -376.630859,-115.988876"
+              class="id_Data_Distillery id_HSAPDV" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.499969,-65.621674 L -259.829346,-215.884338"
+              class="id_Data_Distillery id_SBO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -504.665924,-72.465805 L -398.713043,-207.293518"
+              class="id_Data_Distillery id_MI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.735016,-46.685734 L 48.296360,46.168919"
+              class="id_Data_Distillery id_CHEBI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.738739,-62.342686 L -82.242592,-249.399582"
+              class="id_Data_Distillery id_MP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -510.859406,-26.357317 L -406.133606,222.037079"
+              class="id_Data_Distillery id_ORDO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.093536,-64.954895 L -289.821777,-187.815582"
+              class="id_Data_Distillery id_UNIPROTKB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -500.648743,-68.571724 L -113.007828,-393.201721"
+              class="id_Data_Distillery id_UO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -540.614685,-70.152740 L -655.382629,-182.837601"
+              class="id_Data_Distillery id_MONDO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.976746,-55.702991 L -814.874023,-100.471436"
+              class="id_Data_Distillery id_EFO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.408386,-49.443089 L -160.665390,-27.225916"
+              class="id_Data_Distillery id_PGO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -511.770142,-76.480316 L -491.808044,-129.089264"
+              class="id_Data_Distillery id_GENCODE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -506.927765,-74.062683 L -313.574188,-380.111176"
+              class="id_Data_Distillery id_AIR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -510.499268,-75.960754 L -442.313568,-231.345200"
+              class="id_Data_Distillery id_ALT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -499.021332,-36.054745 L -291.743530,104.885803"
+              class="id_Data_Distillery id_AOD" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.444672,-48.962608 L -241.031052,-27.544487"
+              class="id_Data_Distillery id_AOT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.143707,-57.740032 L -13.837207,-177.190033"
+              class="id_Data_Distillery id_ATC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -515.014404,-77.482948 L -496.129700,-155.732101"
+              class="id_Data_Distillery id_BI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -502.229492,-32.172043 L -330.344727,139.219910"
+              class="id_Data_Distillery id_CCC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -497.554413,-63.996944 L -164.880310,-242.403580"
+              class="id_Data_Distillery id_CCPSS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.788757,-59.936337 L -157.133911,-175.204071"
+              class="id_Data_Distillery id_CCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.252075,-44.310905 L -408.470886,-21.280703"
+              class="id_Data_Distillery id_CCSR_ICD10CM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.350647,-51.556995 L -82.681709,-56.443905"
+              class="id_Data_Distillery id_CCSR_ICD10PCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -534.963135,-74.552788 L -657.607483,-284.596710"
+              class="id_Data_Distillery id_CDCREC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -544.753601,-64.698029 L -604.324707,-98.960938"
+              class="id_Data_Distillery id_CDT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -519.606506,-24.292772 L -511.308624,104.032867"
+              class="id_Data_Distillery id_CHV" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.200226,-44.509342 L 38.425396,92.775002"
+              class="id_Data_Distillery id_COSTAR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -510.799042,-26.382851 L -444.023376,130.931519"
+              class="id_Data_Distillery id_CPM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -509.717163,-75.602592 L -338.177246,-434.948364"
+              class="id_Data_Distillery id_CPT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -535.068420,-27.982037 L -582.005188,51.574345"
+              class="id_Data_Distillery id_CSP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.302887,-44.122242 L -198.639771,36.909309"
+              class="id_Data_Distillery id_CST" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.257935,-65.229858 L -91.876556,-311.502563"
+              class="id_Data_Distillery id_CVX" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -518.512085,-78.087074 L -496.719391,-284.366760"
+              class="id_Data_Distillery id_DDB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -544.470276,-65.179054 L -793.982361,-215.637756"
+              class="id_Data_Distillery id_DRUGBANK" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -505.591827,-73.161812 L -332.882355,-313.482117"
+              class="id_Data_Distillery id_DSM-5" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -511.368256,-26.148863 L -501.904755,-2.360830"
+              class="id_Data_Distillery id_DXP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -499.350769,-35.581203 L -126.946091,229.447784"
+              class="id_Data_Distillery id_FMA" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -514.516602,-77.357788 L -421.673157,-432.325348"
+              class="id_Data_Distillery id_GO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -542.097473,-33.959652 L -584.256958,1.145235"
+              class="id_Data_Distillery id_GS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.299072,-37.175476 L -170.718643,162.658829"
+              class="id_Data_Distillery id_HCDT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.567139,-59.255795 L 60.390976,-232.184998"
+              class="id_Data_Distillery id_HCPCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.543152,-40.574295 L -287.911316,49.102074"
+              class="id_Data_Distillery id_HCPT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -497.134735,-39.291546 L -67.038422,172.878250"
+              class="id_Data_Distillery id_HGNC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.490936,-54.003716 L -27.903427,-102.077141"
+              class="id_Data_Distillery id_HL7V2.5" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -512.947388,-76.896141 L -425.613281,-343.634094"
+              class="id_Data_Distillery id_HL7V3.0" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -546.622009,-60.737160 L -586.178772,-75.607246"
+              class="id_Data_Distillery id_HPO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -495.335754,-58.469967 L 32.546158,-205.258667"
+              class="id_Data_Distillery id_ICD10" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -497.426483,-63.755474 L 13.657896,-331.215485"
+              class="id_Data_Distillery id_ICD10AE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -508.785065,-75.135323 L -508.539948,-75.601593"
+              class="id_Data_Distillery id_ICD10AM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -504.432495,-72.280266 L -232.982452,-409.963165"
+              class="id_Data_Distillery id_ICD10AMAE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -537.175354,-73.111588 L -654.517822,-235.299438"
+              class="id_Data_Distillery id_ICD10CM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -514.518677,-25.114674 L -487.824066,76.979431"
+              class="id_Data_Distillery id_ICD10PCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -495.018982,-57.215099 L 161.512527,-206.291229"
+              class="id_Data_Distillery id_ICD9CM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.892700,-39.795311 L -228.602509,85.717865"
+              class="id_Data_Distillery id_ICF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.922058,-66.271217 L -362.265533,-157.884842"
+              class="id_Data_Distillery id_ICF-CY" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -532.613647,-26.698717 L -555.058472,22.191957"
+              class="id_Data_Distillery id_ICNP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.782928,-62.440048 L 20.397701,-298.306488"
+              class="id_Data_Distillery id_ICPC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.612610,-44.974785 L -668.542847,-16.143141"
+              class="id_Data_Distillery id_ICPC2EENG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.357971,-51.941593 L 296.932068,-72.612846"
+              class="id_Data_Distillery id_ICPC2ICD10ENG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.035828,-41.842087 L 8.443602,145.385773"
+              class="id_Data_Distillery id_ICPC2P" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.142700,-44.737103 L -275.171021,9.818335"
+              class="id_Data_Distillery id_JABL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -534.306458,-27.548986 L -533.760559,-28.546900"
+              class="id_Data_Distillery id_LCH" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.116058,-64.993019 L -139.100372,-277.573059"
+              class="id_Data_Distillery id_LCH_NW" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.530090,-48.112415 L -91.116180,-1.119047"
+              class="id_Data_Distillery id_LNC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -524.372009,-78.066711 L -541.560730,-230.611633"
+              class="id_Data_Distillery id_MCM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -503.264160,-31.187859 L -377.034790,108.750595"
+              class="id_Data_Distillery id_MDR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -513.787109,-77.156029 L -444.156128,-315.835541"
+              class="id_Data_Distillery id_MED-RT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -504.769318,-72.546654 L -295.162872,-341.961639"
+              class="id_Data_Distillery id_MEDCIN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.376007,-50.023987 L 25.894007,-26.636194"
+              class="id_Data_Distillery id_MEDLINEPLUS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -524.324707,-78.071999 L -550.201416,-311.416016"
+              class="id_Data_Distillery id_MMSL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -525.489807,-77.917053 L -553.445374,-258.034515"
+              class="id_Data_Distillery id_MMX" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -495.379700,-43.846760 L 79.597252,119.768364"
+              class="id_Data_Distillery id_MSH" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.470093,-53.793373 L -138.445938,-87.660713"
+              class="id_Data_Distillery id_MTH" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -519.400757,-78.166138 L -498.294403,-369.945038"
+              class="id_Data_Distillery id_MTHCMSFRF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -502.578278,-70.644470 L -210.367889,-372.779236"
+              class="id_Data_Distillery id_MTHICD9" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -503.616669,-71.597557 L -337.085175,-262.819000"
+              class="id_Data_Distillery id_MTHICPC2EAE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.774841,-45.699310 L -942.999695,37.114021"
+              class="id_Data_Distillery id_MTHICPC2ICD10AE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -536.618103,-73.504105 L -628.276001,-207.170380"
+              class="id_Data_Distillery id_MTHMST" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.409393,-61.581921 L -123.188232,-216.402557"
+              class="id_Data_Distillery id_MTHSPL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -499.767273,-35.011856 L -440.109955,9.837599"
+              class="id_Data_Distillery id_MVX" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.477264,-48.605247 L 251.063110,24.397984"
+              class="id_Data_Distillery id_NANDA-I" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.799225,-56.147987 L -133.603195,-122.966881"
+              class="id_Data_Distillery id_NCBI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.198242,-61.057522 L -26.797363,-244.353943"
+              class="id_Data_Distillery id_NCI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.259949,-44.281364 L 161.920105,130.919220"
+              class="id_Data_Distillery id_NDDF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -501.614685,-69.663826 L -348.646973,-212.502335"
+              class="id_Data_Distillery id_NEU" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -516.311890,-77.762527 L -482.239899,-257.199402"
+              class="id_Data_Distillery id_NIC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -516.570801,-24.662622 L -503.439484,48.370483"
+              class="id_Data_Distillery id_NOC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.561188,-54.616734 L 174.507263,-139.044205"
+              class="id_Data_Distillery id_NUCCHCPT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -499.530579,-67.141457 L -113.978455,-348.200409"
+              class="id_Data_Distillery id_OMIM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -506.647339,-28.589901 L -324.667633,251.738373"
+              class="id_Data_Distillery id_OMS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.342957,-43.977165 L -107.171684,64.378036"
+              class="id_Data_Distillery id_ORPHANET" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.362885,-52.110016 L -287.737183,-58.798374"
+              class="id_Data_Distillery id_PCDS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -545.639404,-63.024879 L -751.381348,-162.872665"
+              class="id_Data_Distillery id_PDQ" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -540.634949,-32.340923 L -731.588013,154.744659"
+              class="id_Data_Distillery id_PNDS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.655914,-47.175385 L -170.265396,2.178213"
+              class="id_Data_Distillery id_PPAC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -524.536621,-78.047653 L -536.023865,-174.660690"
+              class="id_Data_Distillery id_PSY" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -510.770813,-76.078140 L -420.580139,-287.885193"
+              class="id_Data_Distillery id_QMR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.686493,-40.246861 L -365.456238,18.230022"
+              class="id_Data_Distillery id_RAM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.585876,-59.315704 L -85.238312,-188.000092"
+              class="id_Data_Distillery id_RCD" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -516.572144,-24.662378 L -477.547729,192.444946"
+              class="id_Data_Distillery id_RCDAE" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -517.944031,-78.020966 L -469.377991,-460.080811"
+              class="id_Data_Distillery id_RCDSA" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.710632,-55.642258 L 176.424911,-166.643387"
+              class="id_Data_Distillery id_RCDSY" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -506.092773,-28.959717 L -354.423126,192.508331"
+              class="id_Data_Distillery id_RXNORM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -497.353027,-38.858864 L -158.595154,135.881561"
+              class="id_Data_Distillery id_SNM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -540.894836,-32.609901 L -652.041199,73.307846"
+              class="id_Data_Distillery id_SNMI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.8970667"
+              d="M -525.772217,-24.601320 L -556.392151,159.770599"
+              class="id_Data_Distillery id_SNOMEDCT_US" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -546.347290,-61.438183 L -721.180054,-132.785980"
+              class="id_Data_Distillery id_SNOMEDCT_VET" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -500.531586,-68.430840 L -193.976730,-321.635651"
+              class="id_Data_Distillery id_SOP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -507.250244,-74.263275 L -444.836365,-176.202545"
+              class="id_Data_Distillery id_SPN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.942871,-56.869385 L 75.371292,-178.528412"
+              class="id_Data_Distillery id_SRC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.501404,-48.369511 L 123.172516,17.590950"
+              class="id_Data_Distillery id_ULT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -501.078796,-69.072678 L -246.889099,-292.742310"
+              class="id_Data_Distillery id_UMD" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -529.051453,-25.358553 L -573.691040,124.611969"
+              class="id_Data_Distillery id_USP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -539.156189,-71.531677 L -611.224487,-153.667969"
+              class="id_Data_Distillery id_USPMG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -519.434021,-78.168518 L -510.618408,-202.164856"
+              class="id_Data_Distillery id_UWDA" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.393616,-52.792503 L 96.600670,-86.908073"
+              class="id_Data_Distillery id_VANDF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -502.546234,-31.859589 L -439.118011,33.506222"
+              class="id_Data_Distillery id_WHO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -530.446533,-76.657555 L -645.735352,-398.797791"
+              class="id_Data_Distillery id_CLINVAR" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -500.405823,-34.195564 L -371.040253,71.067131"
+              class="id_Data_Distillery id_CMAP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -501.244934,-33.213280 L -275.794281,168.904846"
+              class="id_Data_Distillery id_HPOMP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -499.414215,-35.492424 L -171.495651,199.879501"
+              class="id_Data_Distillery id_HGNCHPO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -506.804565,-28.488605 L -383.532013,164.316376"
+              class="id_Data_Distillery id_HCOP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -503.449005,-31.022669 L -277.449219,224.194366"
+              class="id_Data_Distillery id_MPMGI" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.265594,-41.244785 L -115.981750,110.238739"
+              class="id_Data_Distillery id_RATHCOP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -496.358704,-61.458904 L 16.701799,-271.330902"
+              class="id_Data_Distillery id_MSIGDB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.442871,-58.171741 L -710.753296,-101.576073"
+              class="id_Data_Distillery id_HSCLO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -548.340881,-51.887409 L -1074.462646,-64.574684"
+              class="id_Data_Distillery id_GENCODEHSCLO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -541.176514,-69.563004 L -751.208557,-263.692780"
+              class="id_Data_Distillery id_WP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -546.939392,-59.845837 L -860.878052,-165.462860"
+              class="id_Data_Distillery id_CLINGEN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.577576,-47.728680 L 274.129333,52.994850"
+              class="id_Data_Distillery id_STRING" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.029114,-57.259552 L -400.461731,-78.900604"
+              class="id_Data_Distillery id_4DN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -538.730591,-71.897369 L -744.081909,-315.987518"
+              class="id_Data_Distillery id_ERCCRBP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -517.553467,-24.504574 L -478.850586,248.097427"
+              class="id_Data_Distillery id_ERCCREG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -542.758850,-67.686630 L -834.740479,-292.026245"
+              class="id_Data_Distillery id_FALDO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -536.414917,-28.830906 L -623.169739,100.186195"
+              class="id_Data_Distillery id_UNIPROT" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -546.761780,-60.356674 L -914.359924,-192.279449"
+              class="id_Data_Distillery id_GLYCORDF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -546.571838,-41.603382 L -814.615173,60.766930"
+              class="id_Data_Distillery id_GLYCOCOO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -548.274597,-53.236408 L -849.001770,-75.572853"
+              class="id_Data_Distillery id_GLYCANS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -545.561951,-63.183090 L -914.512878,-245.220398"
+              class="id_Data_Distillery id_PROTEOFORM" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.872162,-56.527107 L -25.378246,-150.342346"
+              class="id_Data_Distillery id_GTEXCOEXP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.388947,-49.763710 L 237.396484,-9.786939"
+              class="id_Data_Distillery id_GTEXEQTL" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -495.702423,-59.678356 L -229.700180,-147.236725"
+              class="id_Data_Distillery id_GTEXEXP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -544.866699,-37.973515 L -669.937073,32.560169"
+              class="id_Data_Distillery id_HMAZ" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -530.884705,-76.496460 L -630.596191,-340.624115"
+              class="id_Data_Distillery id_IDGP" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -542.434570,-34.372673 L -734.357239,119.121559"
+              class="id_Data_Distillery id_IDGD" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.620178,-47.417713 L -35.234795,18.215944"
+              class="id_Data_Distillery id_KF" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -498.938019,-36.177979 L -246.829651,133.222092"
+              class="id_Data_Distillery id_LINCS" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -547.887451,-46.266781 L -848.713379,10.066839"
+              class="id_Data_Distillery id_MOTRPAC" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -537.675171,-29.731884 L -657.501892,128.100037"
+              class="id_Data_Distillery id_MW" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -494.813721,-46.247238 L 146.235641,74.286453"
+              class="id_Data_Distillery id_NPO" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -538.191956,-30.134207 L -718.930847,196.307648"
+              class="id_Data_Distillery id_NPOSCKAN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -528.302734,-25.147369 L -593.949402,221.139236"
+              class="id_Data_Distillery id_REACTOME" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -521.900146,-78.230865 L -528.432861,-398.062012"
+              class="id_Data_Distillery id_DGN" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -548.327393,-50.162003 L -843.667114,-38.399265"
+              class="id_Data_Distillery id_BIOMARKER" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M -530.127563,-76.769478 L -650.500061,-426.871552"
+              class="id_Data_Distillery id_OTG" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 871.916443,197.144058 L 816.860962,146.696213"
+              class="id_SPOKE id_Entrez_Gene" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 908.733643,194.336319 L 1113.522705,-60.564636"
+              class="id_SPOKE id_LabeledIn" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.795593,216.605042 L 1459.591187,241.071671"
+              class="id_SPOKE id_MEDLINE" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 907.810486,193.626862 L 898.193359,206.715271"
+              class="id_SPOKE id_MeSH" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.725159,213.085876 L 1509.053711,162.639893"
+              class="id_SPOKE id_Pathway_Interaction_Database"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 917.493469,207.016037 L 1317.286133,76.680725"
+              class="id_SPOKE id_Disease_Ontology" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 914.776123,229.603180 L 1063.087158,321.476044"
+              class="id_SPOKE id_DISEASES" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.816345,214.777756 L 1715.245728,196.868256"
+              class="id_SPOKE id_DrugCentral" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 886.152954,241.782639 L 871.174500,311.514740"
+              class="id_SPOKE id_Gene_Ontology" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 914.405273,200.584412 L 1196.070923,15.980045"
+              class="id_SPOKE id_GWAS_Catalog" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 905.284973,191.980042 L 1067.934326,-90.802704"
+              class="id_SPOKE id_Reactome" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 917.688599,223.129333 L 1054.305664,264.034973"
+              class="id_SPOKE id_LINCS_L1000" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 912.045105,233.275360 L 1038.474854,345.129395"
+              class="id_SPOKE id_TISSUES" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 864.842041,216.393402 L 278.556030,238.310913"
+              class="id_SPOKE id_Uberon" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 916.522583,226.290680 L 1227.007446,363.384125"
+              class="id_SPOKE id_WikiPathways" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 875.349548,193.992737 L 743.325623,22.551878"
+              class="id_SPOKE id_BindingDB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 913.563477,199.373505 L 949.562500,172.861023"
+              class="id_SPOKE id_DisGeNET" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 890.002014,188.446243 L 871.024231,-92.270203"
+              class="id_SPOKE id_DrugBank" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 913.848206,231.001968 L 1171.623535,413.781769"
+              class="id_SPOKE id_MEDI" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 916.432983,204.278107 L 1386.589355,-7.907877"
+              class="id_SPOKE id_PREDICT" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 905.516418,238.654816 L 981.249939,367.355469"
+              class="id_SPOKE id_SIDER" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 897.704407,189.033066 L 952.977112,-58.623692"
+              class="id_SPOKE id_Bgee" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.809937,214.539841 L 1400.849731,199.447983"
+              class="id_SPOKE id_DOAF" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.307190,220.638168 L 992.889160,235.432404"
+              class="id_SPOKE id_ehrlink" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 917.985107,208.709854 L 1698.149170,9.660320"
+              class="id_SPOKE id_Evolutionary_Rate_Covariation"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.719055,217.754028 L 1147.808716,237.934677"
+              class="id_SPOKE id_hetio-dag" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.460938,210.976776 L 1646.086914,90.570145"
+              class="id_SPOKE id_Incomplete_Interactome" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.093689,209.151001 L 1626.404175,41.075493"
+              class="id_SPOKE id_Human_Interactome_Database"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.677185,218.188599 L 1386.413940,267.025238"
+              class="id_SPOKE id_STARGEO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.782043,216.874237 L 1313.596069,238.687851"
+              class="id_SPOKE id_ChEMBL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 881.615540,240.380829 L 876.126709,253.821594"
+              class="id_SPOKE id_UniProt" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 865.749207,208.374207 L 326.974487,63.513210"
+              class="id_SPOKE id_STRING" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 880.874451,190.704269 L 847.430420,115.314980"
+              class="id_SPOKE id_Online_Mendelian_Inheritance_in_Man_(OMIM)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.822632,215.212601 L 1277.656250,212.924713"
+              class="id_SPOKE id_FooDB" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 903.556580,191.067535 L 1008.376953,-26.170441"
+              class="id_SPOKE id_CIViC_(Clinical_Interpretations_of_Variants_in_Cancer)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.332153,210.258804 L 1329.629272,130.727692"
+              class="id_SPOKE id_Genomics_of_Drug_Sensitivity_in_Cancer_(GDSC)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 903.469971,239.743576 L 978.784607,397.261505"
+              class="id_SPOKE id_ClinicalTrials.gov" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.610107,211.999451 L 1107.543579,188.122208"
+              class="id_SPOKE id_Human_Protein_Atlas" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 914.377686,200.542450 L 1326.828613,-70.876442"
+              class="id_SPOKE id_Cell_Ontology" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.452698,219.842361 L 1394.669189,299.557922"
+              class="id_SPOKE id_Kyoto_Encyclopedia_of_Genes_and_Genomes_(KEGG)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 917.776428,222.829803 L 1298.297729,331.987640"
+              class="id_SPOKE id_MetaCyc" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.522095,219.405853 L 1240.503540,267.899353"
+              class="id_SPOKE id_PATRIC" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 881.809875,240.459320 L 772.476135,514.245300"
+              class="id_SPOKE id_NCBI_Taxonomy" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 869.996399,231.277863 L 864.091492,235.577499"
+              class="id_SPOKE id_PathoPhenoDB" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 866.165100,206.978592 L 469.781891,77.114548"
+              class="id_SPOKE id_Pfam" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 918.817017,214.807358 L 1008.014954,212.899414"
+              class="id_SPOKE id_InterPro" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 883.330139,189.755325 L 841.039856,62.136574"
+              class="id_SPOKE id_Protein_Common_Interface_Database_(ProtCID)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 242.315201,728.741516 L 251.064133,266.314728"
+              class="id_Ubergraph id_Uberon" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 229.191925,731.863586 L 29.062172,353.056641"
+              class="id_Ubergraph id_CL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 256.396881,733.019714 L 279.178223,697.554565"
+              class="id_Ubergraph id_PCL" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 266.174377,767.360291 L 730.991028,989.061279"
+              class="id_Ubergraph id_Gene_Ontology_(GO)" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 253.011230,780.301086 L 358.114532,1010.679260"
+              class="id_Ubergraph id_Biospatial_Ontology_(BSPO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 266.878418,765.751465 L 313.036102,784.187317"
+              class="id_Ubergraph id_Phenotype_and_Trait_Ontology_(PATO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.782715,756.820374 L 1159.993652,792.619690"
+              class="id_Ubergraph id_Ontology_of_Biological_Attributes_(OBA)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.526367,759.601868 L 720.960205,825.043335"
+              class="id_Ubergraph id_Human_Phenotype_Ontology_(HPO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 266.477844,766.701355 L 1177.307739,1171.466064"
+              class="id_Ubergraph id_Mammalian_Phenotype_Ontology_(MP)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 237.317413,782.361267 L 160.802795,1236.371216"
+              class="id_Ubergraph id_Fission_Yeast_Phenotype_Ontology_(FYPO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 258.248962,777.151123 L 669.274170,1312.399170"
+              class="id_Ubergraph id_Monarch_Disease_Ontology_(MONDO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 221.797684,773.867554 L -151.091934,1111.794067"
+              class="id_Ubergraph id_Chemical_Entities_of_Biological_Interest_(ChEBI)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 251.729355,730.627014 L 252.804550,727.906799"
+              class="id_Ubergraph id_RO" stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 263.909485,771.240479 L 768.643066,1125.245483"
+              class="id_Ubergraph id_Environmental_conditions,_treatments_and_exposures_ontology_(ECTO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.419006,760.282776 L 850.619995,859.729065"
+              class="id_Ubergraph id_Environment_Ontology_(ENVO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 220.210571,771.944824 L 131.738083,838.351318"
+              class="id_Ubergraph id_Ontology_for_Biomedical_Investigations_(OBI)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 249.851028,781.509766 L 364.840912,1149.821411"
+              class="id_Ubergraph id_Medical_Action_Ontology_(MAXO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 219.264694,770.601379 L -168.620758,1026.407227"
+              class="id_Ubergraph id_Evidence_and_Conclusion_Ontology_(ECO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 266.736450,745.373474 L 737.530823,549.683105"
+              class="id_Ubergraph id_NCBI_Taxonomy" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 235.696564,782.036743 L 142.246506,1184.424438"
+              class="id_Ubergraph id_Protein_Ontology_(PRO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 264.130981,770.919739 L 417.451294,875.184631"
+              class="id_Ubergraph id_NCIt_OBO_Edition_(NCIT)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.597961,752.403931 L 479.852600,726.126526"
+              class="id_Ubergraph id_Plant_Ontology_(PO)" stroke-opacity="1.0"
+              stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 217.950073,768.384521 L -339.607269,1064.007568"
+              class="id_Ubergraph id_Plant_Phenology_Ontology_(PPO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 242.096283,782.735107 L 244.155960,973.284485"
+              class="id_Ubergraph id_Plant_Trait_Ontology_(TO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 254.217560,779.714050 L 510.155121,1274.087769"
+              class="id_Ubergraph id_Plant_Experimental_Conditions_Ontology_(PECO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 265.702545,768.301758 L 882.641357,1092.674316"
+              class="id_Ubergraph id_Drosophila_Anatomy_Ontology_(FBbt)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.803864,755.915405 L 662.943115,758.524109"
+              class="id_Ubergraph id_Food_Ontology_(FoodOn)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.308960,760.885620 L 1333.091431,967.738037"
+              class="id_Ubergraph id_Population_and_Community_Ontology_(PCO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 217.759796,768.018982 L -8.797630,883.746765"
+              class="id_Ubergraph id_Information_Artifact_Ontology_(IAO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 259.970978,775.711121 L 643.498352,1197.406860"
+              class="id_Ubergraph id_Measurement_Method_Ontology_(MMO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.646790,758.650452 L 1489.961914,891.225586"
+              class="id_Ubergraph id_Molecular_Interactions_Controlled_Vocabulary_(MI)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 217.953857,768.391663 L -129.746918,952.879517"
+              class="id_Ubergraph id_Sequence_Ontology_(SO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 267.737366,763.252258 L 813.814880,921.510254"
+              class="id_Ubergraph id_C._elegans_Gross_Anatomy_Ontology_(WBbt)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 240.336853,782.696777 L 224.805328,1068.014160"
+              class="id_Ubergraph id_C._elegans_development_ontology_(WBls)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 255.451553,779.033813 L 350.336975,941.014099"
+              class="id_Ubergraph id_C._elegans_phenotype_(WBPhenotype)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 268.048309,762.081848 L 1593.214233,1082.476196"
+              class="id_Ubergraph id_Zebrafish_anatomy_and_development_ontology_(ZFA)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 220.436386,772.241394 L -348.379486,1211.595337"
+              class="id_Ubergraph id_Ascomycete_phenotype_ontology_(APO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 267.943054,762.502380 L 1216.565308,1008.042603"
+              class="id_Ubergraph id_Mouse_Developmental_Stages_(MmusDV)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 265.564484,768.560974 L 801.041748,1057.580322"
+              class="id_Ubergraph id_Vertebrate_Breed_Ontology_(VBO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+        <path fill="none" stroke-width="0.44853336"
+              d="M 216.076920,763.927795 L -282.443390,922.645447"
+              class="id_Ubergraph id_Units_of_Measurement_Ontology_(UO)"
+              stroke-opacity="1.0" stroke="#a856bc"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="26.5" cx="97.28631"
+                class="id_HRA_KG" cy="456.4683" stroke="#5fa5fd"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="39.77522"
+                class="id_CCF" cy="628.9871" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="16.449642"
+                class="id_CL" cy="329.18356" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-104.9481"
+                class="id_FMA" cy="245.10309" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-42.824417"
+                class="id_HGNC" cy="184.8232" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="175.50293"
+                class="id_HRAVS" cy="591.5289" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="104.07838"
+                class="id_LMHA" cy="655.91486" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="293.77066"
+                class="id_PCL" cy="674.8376" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="262.72946"
+                class="id_RO" cy="702.7971" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="251.57487"
+                class="id_Uberon" cy="239.31956" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="131.26752"
+                class="id_VCCF" cy="619.62646" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="26.5" cx="228.62363"
+                class="id_SPARC_KG" cy="167.47156" stroke="#5fa5fd"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="74.91009"
+                class="id_CHEBI" cy="50.719685" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="361.82037"
+                class="id_EMAPA" cy="104.54316" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="172.77066"
+                class="id_NPO" cy="79.27572" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="26.5" cx="-243.71396"
+                class="id_Petagraph" cy="-93.46862" stroke="#5fa5fd"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="68.36053"
+                class="id_PATO" cy="2.335166" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-695.3374"
+                class="id_DOID" cy="-80.757164" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-740.87836"
+                class="id_OBI" cy="18.672413" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-366.48367"
+                class="id_OBIB" cy="-431.00452" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="159.04326"
+                class="id_EDAM" cy="-115.40584" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-351.9854"
+                class="id_HSAPDV" cy="-127.016205" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-236.98058"
+                class="id_SBO" cy="-230.26952" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-382.0302"
+                class="id_MI" cy="-228.52283" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-57.63258"
+                class="id_MP" cy="-260.50577" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-395.64426"
+                class="id_ORDO" cy="246.91626" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-266.56656"
+                class="id_UNIPROTKB" cy="-201.53398" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-92.30783"
+                class="id_UO" cy="-410.53696" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-674.64856"
+                class="id_MONDO" cy="-201.75385" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-841.502"
+                class="id_EFO" cy="-104.93793" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-133.72502"
+                class="id_PGO" cy="-25.432503" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-482.22943"
+                class="id_GENCODE" cy="-154.33308" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-368.98782"
+                class="id_HCOP" cy="187.06427" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-259.54947"
+                class="id_MPMGI" cy="244.4082" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-149.56111"
+                class="id_HGNCHPO" cy="215.62358" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-255.69048"
+                class="id_HPOMP" cy="186.92807" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-90.898575"
+                class="id_RATHCOP" cy="120.23045" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="243.25879"
+                class="id_GENCODEHSCLO38" cy="-371.1986" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-224.41891"
+                class="id_LINCS" cy="148.28061" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-654.8331"
+                class="id_CLINVAR" cy="-424.21884" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-350.09732"
+                class="id_CMAP" cy="88.10806" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="300.9005"
+                class="id_STRING" cy="56.50267" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-37.241154"
+                class="id_MGI" cy="-438.62115" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="7.4957857"
+                class="id_HSCL038" cy="-391.88647" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="41.691845"
+                class="id_MSIGDB" cy="-281.5533" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-255.96436"
+                class="id_AZ" cy="-473.05185" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1.098335"
+                class="id_GTEXCOEXP" cy="-155.63295" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-204.05383"
+                class="id_GTEXEXP" cy="-155.67859" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="264.3563"
+                class="id_GTEXEQTL" cy="-8.31415" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="179.76636"
+                class="id_GLYGEN" cy="-287.01218" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-147.65741"
+                class="id_ASP2019" cy="-459.17822" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-8.506216"
+                class="id_KF" cy="22.034729" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-374.1421"
+                class="id_4DN" cy="-84.92366" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-299.1532"
+                class="id_AIR" cy="-402.93735" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-431.46408"
+                class="id_ALT" cy="-256.06946" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-269.4161"
+                class="id_AOD" cy="120.06756" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-214.12697"
+                class="id_AOT" cy="-25.270597" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="12.367833"
+                class="id_ATC" cy="-183.69356" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-489.79535"
+                class="id_BI" cy="-181.97855" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-311.22546"
+                class="id_CCC" cy="158.28436" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-141.08597"
+                class="id_CCPSS" cy="-255.16403" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-131.57393"
+                class="id_CCS" cy="-183.9039" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-382.3742"
+                class="id_CCSR_ICD10CM" cy="-14.355106" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-55.68361"
+                class="id_CCSR_ICD10PCS" cy="-56.7644" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-671.22186"
+                class="id_CDCREC" cy="-307.913" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-627.72955"
+                class="id_CDT" cy="-112.42247" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-509.56638"
+                class="id_CHV" cy="130.9766" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="64.57392"
+                class="id_COSTAR" cy="99.50216" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-433.47366"
+                class="id_CPM" cy="155.78517" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-326.54565"
+                class="id_CPT" cy="-459.31445" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-595.72485"
+                class="id_CSP" cy="74.82881" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-172.5939"
+                class="id_CST" cy="44.023563" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-68.785736"
+                class="id_CVX" cy="-325.4959" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-493.88272"
+                class="id_DDB" cy="-311.21735" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-817.1039"
+                class="id_DRUGBANK" cy="-229.5803" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-317.12543"
+                class="id_DSM-5" cy="-335.40744" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-491.92426"
+                class="id_DXP" cy="22.726807" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-414.841"
+                class="id_GO" cy="-458.44662" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-605.0057"
+                class="id_GS" cy="18.422087" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-147.66896"
+                class="id_HCDT" cy="176.71985" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="86.17258"
+                class="id_HCPCS" cy="-240.20428" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-263.1057"
+                class="id_HCPT" cy="59.76428" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-1.0456085"
+                class="id_HL7V2.5" cy="-104.84435" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-417.2119"
+                class="id_HL7V3.0" cy="-369.29373" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-611.452"
+                class="id_HPO" cy="-85.10791" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="58.559174"
+                class="id_ICD10" cy="-212.49213" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="37.580173"
+                class="id_ICD10AE" cy="-343.73447" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-495.97626"
+                class="id_ICD10AM" cy="-99.50042" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-216.0662"
+                class="id_ICD10AMAE" cy="-431.00693" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-670.3444"
+                class="id_ICD10CM" cy="-257.17453" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-480.994"
+                class="id_ICD10PCS" cy="103.10126" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="187.84229"
+                class="id_ICD9CM" cy="-212.26984" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-204.14644"
+                class="id_ICF" cy="97.15906" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-339.83884"
+                class="id_ICF-CY" cy="-172.91956" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-566.32336"
+                class="id_ICNP" cy="46.729736" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="44.963543"
+                class="id_ICPC" cy="-309.51004" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-694.8067"
+                class="id_ICPC2EENG" cy="-9.881426" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="323.92285"
+                class="id_ICPC2ICD10ENG" cy="-73.31794" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="33.756542"
+                class="id_ICPC2P" cy="154.78018" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-248.96497"
+                class="id_JABL" cy="16.317732" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-546.7182"
+                class="id_LCH" cy="-4.8593755" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-115.86768"
+                class="id_LCH_NW" cy="-291.3296" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-64.29753"
+                class="id_LNC" cy="2.0050364" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-544.5839"
+                class="id_MCM" cy="-257.44183" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-358.95023"
+                class="id_MDR" cy="128.79924" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-436.5945"
+                class="id_MED-RT" cy="-341.75507" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-278.58344"
+                class="id_MEDCIN" cy="-363.2718" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="52.866768"
+                class="id_MEDLINEPLUS" cy="-25.423683" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-553.17737"
+                class="id_MMSL" cy="-338.25153" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-557.58636"
+                class="id_MMX" cy="-284.71506" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="105.56631"
+                class="id_MSH" cy="127.158104" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-111.567276"
+                class="id_MTH" cy="-90.21759" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-496.3464"
+                class="id_MTHCMSFRF" cy="-396.87466" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-191.59741"
+                class="id_MTHICD9" cy="-392.1872" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-319.3531"
+                class="id_MTHICPC2EAE" cy="-283.18005" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-969.4258"
+                class="id_MTHICPC2ICD10AE" cy="42.65121" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-643.5454"
+                class="id_MTHMST" cy="-229.43799" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-98.248856"
+                class="id_MTHSPL" cy="-226.74799" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-418.52847"
+                class="id_MVX" cy="26.06224" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="277.9346"
+                class="id_NANDA-I" cy="27.029236" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-107.053665"
+                class="id_NCBI" cy="-127.878365" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-1.6468658"
+                class="id_NCI" cy="-254.17496" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="188.00891"
+                class="id_NDDF" cy="137.87436" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-328.9129"
+                class="id_NEU" cy="-230.92966" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-477.20306"
+                class="id_NIC" cy="-283.72543" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-498.6615"
+                class="id_NOC" cy="74.94436" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="201.29485"
+                class="id_NUCCHCPT" cy="-142.42444" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-92.16029"
+                class="id_OMIM" cy="-364.10538" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-309.96622"
+                class="id_OMS" cy="274.38498" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-81.16588"
+                class="id_ORPHANET" cy="71.63737" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-260.7513"
+                class="id_PCDS" cy="-59.67189" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-775.67194"
+                class="id_PDQ" cy="-174.66104" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-750.8742"
+                class="id_PNDS" cy="173.64024" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-143.57256"
+                class="id_PPAC" cy="6.2393284" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-539.2117"
+                class="id_PSY" cy="-201.47183" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-410.0022"
+                class="id_QMR" cy="-312.72684" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-340.79398"
+                class="id_RAM" cy="29.219662" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-59.475426"
+                class="id_RCD" cy="-196.0793" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-472.77112"
+                class="id_RCDAE" cy="219.01907" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-465.97324"
+                class="id_RCDSA" cy="-486.86526" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="203.06303"
+                class="id_RCDSY" cy="-171.04915" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-339.16714"
+                class="id_RXNORM" cy="214.78511" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-134.59944"
+                class="id_SNM" cy="148.2592" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-671.5873"
+                class="id_SNMI" cy="91.93444" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-560.8156"
+                class="id_SNOMEDCT_US" cy="186.40578" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-746.1786"
+                class="id_SNOMEDCT_VET" cy="-142.98767" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-173.15956"
+                class="id_SOP" cy="-338.83" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-430.73788"
+                class="id_SPN" cy="-199.22932" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="101.77717"
+                class="id_SRC" cy="-184.1613" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="150.01987"
+                class="id_ULT" cy="20.457937" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-226.61916"
+                class="id_UMD" cy="-310.5785" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-581.39374"
+                class="id_USP" cy="150.48991" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-629.0319"
+                class="id_USPMG" cy="-173.96315" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-508.70367"
+                class="id_UWDA" cy="-229.09688" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="123.55579"
+                class="id_VANDF" cy="-88.46408" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-420.3155"
+                class="id_WHO" cy="52.883133" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="26.5" cx="-521.34875"
+                class="id_Data_Distillery" cy="-51.2365" stroke="#5fa5fd"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-736.8474"
+                class="id_HSCLO" cy="-108.511314" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-1101.4548"
+                class="id_GENCODEHSCLO" cy="-65.22559" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-771.0363"
+                class="id_WP" cy="-282.0193" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-886.4687"
+                class="id_CLINGEN" cy="-174.07219" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-761.46375"
+                class="id_ERCCRBP" cy="-336.64838" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-475.0553"
+                class="id_ERCCREG" cy="274.82935" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-856.1506"
+                class="id_FALDO" cy="-308.47638" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-638.2359"
+                class="id_UNIPROT" cy="122.59179" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-939.77295"
+                class="id_GLYCORDF" cy="-201.39963" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-839.83826"
+                class="id_GLYCOCOO" cy="70.40005" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-875.9276"
+                class="id_GLYCANS" cy="-77.57276" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-938.7261"
+                class="id_PROTEOFORM" cy="-257.167" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-693.455"
+                class="id_HMAZ" cy="45.82315" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-640.13214"
+                class="id_IDGP" cy="-365.88406" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-755.44305"
+                class="id_IDGD" cy="135.98538" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-875.2521"
+                class="id_MOTRPAC" cy="15.036558" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-673.8283"
+                class="id_MW" cy="149.60464" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-735.77405"
+                class="id_NPOSCKAN" cy="217.40994" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-600.9034"
+                class="id_REACTOME" cy="247.22836" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-528.98425"
+                class="id_DGN" cy="-425.05637" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-870.64575"
+                class="id_BIOMARKER" cy="-37.324768" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-659.2789"
+                class="id_OTG" cy="-452.40454" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="26.5" cx="891.8232"
+                class="id_SPOKE" cy="215.38475" stroke="#5fa5fd"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="796.9543"
+                class="id_Entrez_Gene" cy="128.45552" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1130.4331"
+                class="id_LabeledIn" cy="-81.613075" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1486.5636"
+                class="id_MEDLINE" cy="242.29196" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="914.1806"
+                class="id_MeSH" cy="184.95735" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1535.9557"
+                class="id_Pathway_Interaction_Database" cy="160.341"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1342.9564"
+                class="id_Disease_Ontology" cy="68.31202" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1086.04"
+                class="id_DISEASES" cy="335.6945" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1742.2389"
+                class="id_DrugCentral" cy="196.26126" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="865.5042"
+                class="id_Gene_Ontology" cy="337.91263" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1218.653"
+                class="id_GWAS_Catalog" cy="1.1797009" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1081.3961"
+                class="id_Reactome" cy="-114.20741" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1080.1711"
+                class="id_LINCS_L1000" cy="271.77957" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1058.6968"
+                class="id_TISSUES" cy="363.02" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1251.7069"
+                class="id_WikiPathways" cy="374.29007" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="726.852"
+                class="id_BindingDB" cy="1.1598547" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="971.3028"
+                class="id_DisGeNET" cy="156.8498" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="869.20306"
+                class="id_DrugBank" cy="-119.20871" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1193.6486"
+                class="id_MEDI" cy="429.399" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1411.1992"
+                class="id_PREDICT" cy="-19.014513" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="994.9431"
+                class="id_SIDER" cy="390.62555" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="958.85834"
+                class="id_Bgee" cy="-84.97537" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1427.8365"
+                class="id_DOAF" cy="198.60307" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1019.37317"
+                class="id_ehrlink" cy="240.68582" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1724.311"
+                class="id_Evolutionary_Rate_Covariation" cy="2.9854202"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1174.7046"
+                class="id_hetio-dag" cy="240.30396" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1672.7246"
+                class="id_Incomplete_Interactome" cy="86.16216" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1652.6747"
+                class="id_Human_Interactome_Database" cy="34.841743"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1413.268"
+                class="id_STARGEO" cy="269.82907" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1340.5549"
+                class="id_ChEMBL" cy="240.17734" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="865.919"
+                class="id_UniProt" cy="278.81766" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="836.4817"
+                class="id_Online_Mendelian_Inheritance_in_Man_(OMIM)"
+                cy="90.63451" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1304.6556"
+                class="id_FooDB" cy="212.75256" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1020.11035"
+                class="id_CIViC_(Clinical_Interpretations_of_Variants_in_Cancer)"
+                cy="-50.487663" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1356.1382"
+                class="id_Genomics_of_Drug_Sensitivity_in_Cancer_(GDSC)"
+                cy="125.601746" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="990.4314"
+                class="id_ClinicalTrials.gov" cy="421.62033" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1134.3306"
+                class="id_Human_Protein_Atlas" cy="184.73691" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1349.3832"
+                class="id_Cell_Ontology" cy="-85.71874" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1421.2987"
+                class="id_Kyoto_Encyclopedia_of_Genes_and_Genomes_(KEGG)"
+                cy="304.01553" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1324.251"
+                class="id_MetaCyc" cy="339.43268" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1267.2024"
+                class="id_PATRIC" cy="271.92047" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="762.4628"
+                class="id_NCBI_Taxonomy" cy="539.3199" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="842.2647"
+                class="id_PathoPhenoDB" cy="251.47063" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="444.1238"
+                class="id_Pfam" cy="68.70839" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1035.0088"
+                class="id_InterPro" cy="212.32202" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="832.5468"
+                class="id_Protein_Common_Interface_Database_(ProtCID)"
+                cy="36.50714" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="26.5" cx="241.80446"
+                class="id_Ubergraph" cy="755.7367" stroke="#5fa5fd"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="755.36096"
+                class="id_Gene_Ontology_(GO)" cy="1000.6849" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="369.32132"
+                class="id_Biospatial_Ontology_(BSPO)" cy="1035.2437"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="338.11008"
+                class="id_Phenotype_and_Trait_Ontology_(PATO)" cy="794.2021"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1186.9719"
+                class="id_Ontology_of_Biological_Attributes_(OBA)"
+                cy="793.70337" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="747.6821"
+                class="id_Human_Phenotype_Ontology_(HPO)" cy="828.9085"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1201.9811"
+                class="id_Mammalian_Phenotype_Ontology_(MP)" cy="1182.4307"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="156.31573"
+                class="id_Fission_Yeast_Phenotype_Ontology_(FYPO)"
+                cy="1262.9957" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="685.7187"
+                class="id_Monarch_Disease_Ontology_(MONDO)" cy="1333.8136"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-171.09871"
+                class="id_Chemical_Entities_of_Biological_Interest_(ChEBI)"
+                cy="1129.9249" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="790.7481"
+                class="id_Environmental_conditions,_treatments_and_exposures_ontology_(ECTO)"
+                cy="1140.7493" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="877.23456"
+                class="id_Environment_Ontology_(ENVO)" cy="864.27515"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="110.144196"
+                class="id_Ontology_for_Biomedical_Investigations_(OBI)"
+                cy="854.55945" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="372.88748"
+                class="id_Medical_Action_Ontology_(MAXO)" cy="1175.5945"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-191.16052"
+                class="id_Evidence_and_Conclusion_Ontology_(ECO)" cy="1041.272"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="136.13861"
+                class="id_Protein_Ontology_(PRO)" cy="1210.7245"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="439.77783"
+                class="id_NCIt_OBO_Edition_(NCIT)" cy="890.3677"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="506.64612"
+                class="id_Plant_Ontology_(PO)" cy="722.79376" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-363.46167"
+                class="id_Plant_Phenology_Ontology_(PPO)" cy="1076.6554"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="244.44778"
+                class="id_Plant_Trait_Ontology_(TO)" cy="1000.2829"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="522.56824"
+                class="id_Plant_Experimental_Conditions_Ontology_(PECO)"
+                cy="1298.0652" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="906.5394"
+                class="id_Drosophila_Anatomy_Ontology_(FBbt)" cy="1105.2394"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="689.9425"
+                class="id_Food_Ontology_(FoodOn)" cy="758.7028" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1359.596"
+                class="id_Population_and_Community_Ontology_(PCO)" cy="972.887"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-32.8423"
+                class="id_Information_Artifact_Ontology_(IAO)" cy="896.029"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="661.66486"
+                class="id_Measurement_Method_Ontology_(MMO)" cy="1217.3813"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1516.8042"
+                class="id_Molecular_Interactions_Controlled_Vocabulary_(MI)"
+                cy="894.13934" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-153.59752"
+                class="id_Sequence_Ontology_(SO)" cy="965.5345" stroke="#f1087b"
+                stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="839.7478"
+                class="id_C._elegans_Gross_Anatomy_Ontology_(WBbt)"
+                cy="929.0258" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="223.33774"
+                class="id_C._elegans_development_ontology_(WBls)" cy="1094.9742"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="363.98407"
+                class="id_C._elegans_phenotype_(WBPhenotype)" cy="964.3112"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1619.4581"
+                class="id_Zebrafish_anatomy_and_development_ontology_(ZFA)"
+                cy="1088.8213" stroke="#f1087b" stroke-opacity="1.0"
+                stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-369.74756"
+                class="id_Ascomycete_phenotype_ontology_(APO)" cy="1228.1001"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="1242.7039"
+                class="id_Mouse_Developmental_Stages_(MmusDV)" cy="1014.8083"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="824.80176"
+                class="id_Vertebrate_Breed_Ontology_(VBO)" cy="1070.4045"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="26.5" cx="-308.17093"
+                class="id_Units_of_Measurement_Ontology_(UO)" cy="930.83655"
+                stroke="#f1087b" stroke-opacity="1.0" stroke-width="0.44853336"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="76" x="97.28631" y="470.53894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HRA_KG">
+            HRA KG
+        </text>
+        <text font-size="76" x="16.449642" y="343.2542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CL">
+            CL
+        </text>
+        <text font-size="76" x="-104.9481" y="258.70367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FMA">
+            FMA
+        </text>
+        <text font-size="76" x="-42.824417" y="198.89383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HGNC">
+            HGNC
+        </text>
+        <text font-size="76" x="251.57487" y="253.15518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Uberon">
+            Uberon
+        </text>
+        <text font-size="76" x="228.62363" y="181.54219" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SPARC_KG">
+            SPARC KG
+        </text>
+        <text font-size="76" x="74.91009" y="64.79032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CHEBI">
+            CHEBI
+        </text>
+        <text font-size="76" x="-243.71396" y="-75.86641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Petagraph">
+            Petagraph
+        </text>
+        <text font-size="76" x="300.9005" y="70.57331" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_STRING">
+            STRING
+        </text>
+        <text font-size="76" x="-521.34875" y="-33.634285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Data_Distillery">
+            Data Distillery
+        </text>
+        <text font-size="76" x="891.8232" y="229.46158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SPOKE">
+            SPOKE
+        </text>
+        <text font-size="76" x="241.80446" y="773.3389" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ubergraph">
+            Ubergraph
+        </text>
+    </g>
+</svg>
