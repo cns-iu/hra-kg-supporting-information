@@ -1,0 +1,421 @@
+Source,Target
+HRA KG,CCF
+HRA KG,CL
+HRA KG,FMA
+HRA KG,HGNC
+HRA KG,HRAVS
+HRA KG,LMHA
+HRA KG,PCL
+HRA KG,RO
+HRA KG,Uberon
+HRA KG,VCCF
+SPARC KG,Uberon
+SPARC KG,CHEBI
+SPARC KG,EMAPA
+SPARC KG,NPO
+Petagraph,Uberon
+Petagraph,PATO
+Petagraph,CL
+Petagraph,DOID
+Petagraph,OBI
+Petagraph,OBIB
+Petagraph,EDAM
+Petagraph,HSAPDV
+Petagraph,SBO
+Petagraph,MI
+Petagraph,CHEBI
+Petagraph,MP
+Petagraph,ORDO
+Petagraph,UNIPROTKB
+Petagraph,UO
+Petagraph,MONDO
+Petagraph,EFO
+Petagraph,PGO
+Petagraph,GENCODE
+Petagraph,HCOP
+Petagraph,MPMGI
+Petagraph,HGNCHPO
+Petagraph,HPOMP
+Petagraph,RATHCOP
+Petagraph,GENCODEHSCLO38
+Petagraph,LINCS
+Petagraph,CLINVAR
+Petagraph,CMAP
+Petagraph,STRING
+Petagraph,MGI
+Petagraph,HSCL038
+Petagraph,MSIGDB
+Petagraph,AZ
+Petagraph,GTEXCOEXP
+Petagraph,GTEXEXP
+Petagraph,GTEXEQTL
+Petagraph,GLYGEN
+Petagraph,ASP2019
+Petagraph,KF
+Petagraph,4DN
+Petagraph,AIR
+Petagraph,ALT
+Petagraph,AOD
+Petagraph,AOT
+Petagraph,ATC
+Petagraph,BI
+Petagraph,CCC
+Petagraph,CCPSS
+Petagraph,CCS
+Petagraph,CCSR_ICD10CM
+Petagraph,CCSR_ICD10PCS
+Petagraph,CDCREC
+Petagraph,CDT
+Petagraph,CHV
+Petagraph,COSTAR
+Petagraph,CPM
+Petagraph,CPT
+Petagraph,CSP
+Petagraph,CST
+Petagraph,CVX
+Petagraph,DDB
+Petagraph,DRUGBANK
+Petagraph,DSM-5
+Petagraph,DXP
+Petagraph,FMA
+Petagraph,GO
+Petagraph,GS
+Petagraph,HCDT
+Petagraph,HCPCS
+Petagraph,HCPT
+Petagraph,HGNC
+Petagraph,HL7V2.5
+Petagraph,HL7V3.0
+Petagraph,HPO
+Petagraph,ICD10
+Petagraph,ICD10
+Petagraph,ICD10AE
+Petagraph,ICD10AM
+Petagraph,ICD10AMAE
+Petagraph,ICD10CM
+Petagraph,ICD10CM
+Petagraph,ICD10PCS
+Petagraph,ICD10PCS
+Petagraph,ICD9CM
+Petagraph,ICD9CM
+Petagraph,ICF
+Petagraph,ICF-CY
+Petagraph,ICNP
+Petagraph,ICPC
+Petagraph,ICPC2EENG
+Petagraph,ICPC2ICD10ENG
+Petagraph,ICPC2P
+Petagraph,JABL
+Petagraph,LCH
+Petagraph,LCH_NW
+Petagraph,LNC
+Petagraph,MCM
+Petagraph,MDR
+Petagraph,MED-RT
+Petagraph,MEDCIN
+Petagraph,MEDLINEPLUS
+Petagraph,MMSL
+Petagraph,MMX
+Petagraph,MSH
+Petagraph,MSH
+Petagraph,MTH
+Petagraph,MTHCMSFRF
+Petagraph,MTHICD9
+Petagraph,MTHICPC2EAE
+Petagraph,MTHICPC2ICD10AE
+Petagraph,MTHMST
+Petagraph,MTHSPL
+Petagraph,MVX
+Petagraph,NANDA-I
+Petagraph,NCBI
+Petagraph,NCI
+Petagraph,NDDF
+Petagraph,NEU
+Petagraph,NIC
+Petagraph,NOC
+Petagraph,NUCCHCPT
+Petagraph,OMIM
+Petagraph,OMS
+Petagraph,ORPHANET
+Petagraph,PCDS
+Petagraph,PDQ
+Petagraph,PNDS
+Petagraph,PPAC
+Petagraph,PSY
+Petagraph,QMR
+Petagraph,RAM
+Petagraph,RCD
+Petagraph,RCDAE
+Petagraph,RCDSA
+Petagraph,RCDSY
+Petagraph,RXNORM
+Petagraph,SNM
+Petagraph,SNMI
+Petagraph,SNOMEDCT_US
+Petagraph,SNOMEDCT_US
+Petagraph,SNOMEDCT_VET
+Petagraph,SOP
+Petagraph,SPN
+Petagraph,SRC
+Petagraph,ULT
+Petagraph,UMD
+Petagraph,USP
+Petagraph,USPMG
+Petagraph,UWDA
+Petagraph,VANDF
+Petagraph,WHO
+Data Distillery,Uberon
+Data Distillery,PATO
+Data Distillery,CL
+Data Distillery,DOID
+Data Distillery,OBI
+Data Distillery,OBIB
+Data Distillery,EDAM
+Data Distillery,HSAPDV
+Data Distillery,SBO
+Data Distillery,MI
+Data Distillery,CHEBI
+Data Distillery,MP
+Data Distillery,ORDO
+Data Distillery,UNIPROTKB
+Data Distillery,UO
+Data Distillery,MONDO
+Data Distillery,EFO
+Data Distillery,PGO
+Data Distillery,GENCODE
+Data Distillery,AIR
+Data Distillery,ALT
+Data Distillery,AOD
+Data Distillery,AOT
+Data Distillery,ATC
+Data Distillery,BI
+Data Distillery,CCC
+Data Distillery,CCPSS
+Data Distillery,CCS
+Data Distillery,CCSR_ICD10CM
+Data Distillery,CCSR_ICD10PCS
+Data Distillery,CDCREC
+Data Distillery,CDT
+Data Distillery,CHV
+Data Distillery,COSTAR
+Data Distillery,CPM
+Data Distillery,CPT
+Data Distillery,CSP
+Data Distillery,CST
+Data Distillery,CVX
+Data Distillery,DDB
+Data Distillery,DRUGBANK
+Data Distillery,DSM-5
+Data Distillery,DXP
+Data Distillery,FMA
+Data Distillery,GO
+Data Distillery,GS
+Data Distillery,HCDT
+Data Distillery,HCPCS
+Data Distillery,HCPT
+Data Distillery,HGNC
+Data Distillery,HL7V2.5
+Data Distillery,HL7V3.0
+Data Distillery,HPO
+Data Distillery,ICD10
+Data Distillery,ICD10
+Data Distillery,ICD10AE
+Data Distillery,ICD10AM
+Data Distillery,ICD10AMAE
+Data Distillery,ICD10CM
+Data Distillery,ICD10CM
+Data Distillery,ICD10PCS
+Data Distillery,ICD10PCS
+Data Distillery,ICD9CM
+Data Distillery,ICD9CM
+Data Distillery,ICF
+Data Distillery,ICF-CY
+Data Distillery,ICNP
+Data Distillery,ICPC
+Data Distillery,ICPC2EENG
+Data Distillery,ICPC2ICD10ENG
+Data Distillery,ICPC2P
+Data Distillery,JABL
+Data Distillery,LCH
+Data Distillery,LCH_NW
+Data Distillery,LNC
+Data Distillery,MCM
+Data Distillery,MDR
+Data Distillery,MED-RT
+Data Distillery,MEDCIN
+Data Distillery,MEDLINEPLUS
+Data Distillery,MMSL
+Data Distillery,MMX
+Data Distillery,MSH
+Data Distillery,MSH
+Data Distillery,MTH
+Data Distillery,MTHCMSFRF
+Data Distillery,MTHICD9
+Data Distillery,MTHICPC2EAE
+Data Distillery,MTHICPC2ICD10AE
+Data Distillery,MTHMST
+Data Distillery,MTHSPL
+Data Distillery,MVX
+Data Distillery,NANDA-I
+Data Distillery,NCBI
+Data Distillery,NCI
+Data Distillery,NDDF
+Data Distillery,NEU
+Data Distillery,NIC
+Data Distillery,NOC
+Data Distillery,NUCCHCPT
+Data Distillery,OMIM
+Data Distillery,OMS
+Data Distillery,ORPHANET
+Data Distillery,PCDS
+Data Distillery,PDQ
+Data Distillery,PNDS
+Data Distillery,PPAC
+Data Distillery,PSY
+Data Distillery,QMR
+Data Distillery,RAM
+Data Distillery,RCD
+Data Distillery,RCDAE
+Data Distillery,RCDSA
+Data Distillery,RCDSY
+Data Distillery,RXNORM
+Data Distillery,SNM
+Data Distillery,SNMI
+Data Distillery,SNOMEDCT_US
+Data Distillery,SNOMEDCT_US
+Data Distillery,SNOMEDCT_VET
+Data Distillery,SOP
+Data Distillery,SPN
+Data Distillery,SRC
+Data Distillery,ULT
+Data Distillery,UMD
+Data Distillery,USP
+Data Distillery,USPMG
+Data Distillery,UWDA
+Data Distillery,VANDF
+Data Distillery,WHO
+Data Distillery,CLINVAR
+Data Distillery,CMAP
+Data Distillery,HPOMP
+Data Distillery,HGNCHPO
+Data Distillery,HCOP
+Data Distillery,MPMGI
+Data Distillery,RATHCOP
+Data Distillery,MSIGDB
+Data Distillery,HSCLO
+Data Distillery,GENCODEHSCLO
+Data Distillery,WP
+Data Distillery,CLINGEN
+Data Distillery,STRING
+Data Distillery,4DN
+Data Distillery,ERCCRBP
+Data Distillery,ERCCREG
+Data Distillery,FALDO
+Data Distillery,UNIPROT
+Data Distillery,GLYCORDF
+Data Distillery,GLYCOCOO
+Data Distillery,GLYCANS
+Data Distillery,PROTEOFORM
+Data Distillery,GTEXCOEXP
+Data Distillery,GTEXEQTL
+Data Distillery,GTEXEXP
+Data Distillery,HMAZ
+Data Distillery,IDGP
+Data Distillery,IDGD
+Data Distillery,KF
+Data Distillery,LINCS
+Data Distillery,MOTRPAC
+Data Distillery,MW
+Data Distillery,NPO
+Data Distillery,NPOSCKAN
+Data Distillery,REACTOME
+Data Distillery,DGN
+Data Distillery,BIOMARKER
+Data Distillery,OTG
+SPOKE,Entrez Gene
+SPOKE,LabeledIn
+SPOKE,MEDLINE
+SPOKE,MeSH
+SPOKE,Pathway Interaction Database
+SPOKE,Disease Ontology
+SPOKE,DISEASES
+SPOKE,DrugCentral
+SPOKE,Gene Ontology
+SPOKE,GWAS Catalog
+SPOKE,Reactome
+SPOKE,LINCS L1000
+SPOKE,TISSUES
+SPOKE,Uberon
+SPOKE,WikiPathways
+SPOKE,BindingDB
+SPOKE,DisGeNET
+SPOKE,DrugBank
+SPOKE,MEDI
+SPOKE,PREDICT
+SPOKE,SIDER
+SPOKE,Bgee
+SPOKE,DOAF
+SPOKE,ehrlink
+SPOKE,Evolutionary Rate Covariation
+SPOKE,hetio-dag
+SPOKE,Incomplete Interactome
+SPOKE,Human Interactome Database
+SPOKE,STARGEO
+SPOKE,ChEMBL
+SPOKE,UniProt
+SPOKE,STRING
+SPOKE,Online Mendelian Inheritance in Man (OMIM)
+SPOKE,FooDB
+SPOKE,CIViC (Clinical Interpretations of Variants in Cancer)
+SPOKE,Genomics of Drug Sensitivity in Cancer (GDSC)
+SPOKE,ClinicalTrials.gov
+SPOKE,Human Protein Atlas
+SPOKE,Cell Ontology
+SPOKE,Kyoto Encyclopedia of Genes and Genomes (KEGG)
+SPOKE,MetaCyc
+SPOKE,PATRIC
+SPOKE,NCBI Taxonomy
+SPOKE,PathoPhenoDB
+SPOKE,Pfam
+SPOKE,InterPro
+SPOKE,Protein Common Interface Database (ProtCID)
+Ubergraph,Uberon
+Ubergraph,CL
+Ubergraph,PCL
+Ubergraph,Gene Ontology (GO)
+Ubergraph,Biospatial Ontology (BSPO)
+Ubergraph,Phenotype and Trait Ontology (PATO)
+Ubergraph,Ontology of Biological Attributes (OBA)
+Ubergraph,Human Phenotype Ontology (HPO)
+Ubergraph,Mammalian Phenotype Ontology (MP)
+Ubergraph,Fission Yeast Phenotype Ontology (FYPO)
+Ubergraph,Monarch Disease Ontology (MONDO)
+Ubergraph,Chemical Entities of Biological Interest (ChEBI)
+Ubergraph,RO
+Ubergraph,"Environmental conditions, treatments and exposures ontology (ECTO)"
+Ubergraph,Environment Ontology (ENVO)
+Ubergraph,Ontology for Biomedical Investigations (OBI)
+Ubergraph,Medical Action Ontology (MAXO)
+Ubergraph,Evidence and Conclusion Ontology (ECO)
+Ubergraph,NCBI Taxonomy
+Ubergraph,Protein Ontology (PRO)
+Ubergraph,NCIt OBO Edition (NCIT)
+Ubergraph,Plant Ontology (PO)
+Ubergraph,Plant Phenology Ontology (PPO)
+Ubergraph,Plant Trait Ontology (TO)
+Ubergraph,Plant Experimental Conditions Ontology (PECO)
+Ubergraph,Drosophila Anatomy Ontology (FBbt)
+Ubergraph,Food Ontology (FoodOn)
+Ubergraph,Population and Community Ontology (PCO)
+Ubergraph,Information Artifact Ontology (IAO)
+Ubergraph,Measurement Method Ontology (MMO)
+Ubergraph,Molecular Interactions Controlled Vocabulary (MI)
+Ubergraph,Sequence Ontology (SO)
+Ubergraph,C. elegans Gross Anatomy Ontology (WBbt)
+Ubergraph,C. elegans development ontology (WBls)
+Ubergraph,C. elegans phenotype (WBPhenotype)
+Ubergraph,Zebrafish anatomy and development ontology (ZFA)
+Ubergraph,Ascomycete phenotype ontology (APO)
+Ubergraph,Mouse Developmental Stages (MmusDV)
+Ubergraph,Vertebrate Breed Ontology (VBO)
+Ubergraph,Units of Measurement Ontology (UO)

@@ -1,0 +1,262 @@
+Label,ID
+GLYCORDF,GLYCORDF
+PREDICT,PREDICT
+CDCREC,CDCREC
+TISSUES,TISSUES
+LabeledIn,LabeledIn
+HGNC,HGNC
+BIOMARKER,BIOMARKER
+NIC,NIC
+COSTAR,COSTAR
+Chemical Entities of Biological Interest (ChEBI),Chemical Entities of Biological Interest (ChEBI)
+LINCS L1000,LINCS L1000
+NCBI Taxonomy,NCBI Taxonomy
+OTG,OTG
+ICF,ICF
+Fission Yeast Phenotype Ontology (FYPO),Fission Yeast Phenotype Ontology (FYPO)
+Information Artifact Ontology (IAO),Information Artifact Ontology (IAO)
+GWAS Catalog,GWAS Catalog
+Online Mendelian Inheritance in Man (OMIM),Online Mendelian Inheritance in Man (OMIM)
+GENCODEHSCLO,GENCODEHSCLO
+Gene Ontology (GO),Gene Ontology (GO)
+MPMGI,MPMGI
+OBIB,OBIB
+DisGeNET,DisGeNET
+Pathway Interaction Database,Pathway Interaction Database
+WHO,WHO
+ICF-CY,ICF-CY
+Genomics of Drug Sensitivity in Cancer (GDSC),Genomics of Drug Sensitivity in Cancer (GDSC)
+C. elegans Gross Anatomy Ontology (WBbt),C. elegans Gross Anatomy Ontology (WBbt)
+Ontology for Biomedical Investigations (OBI),Ontology for Biomedical Investigations (OBI)
+KF,KF
+ehrlink,ehrlink
+USP,USP
+DrugCentral,DrugCentral
+Zebrafish anatomy and development ontology (ZFA),Zebrafish anatomy and development ontology (ZFA)
+HMAZ,HMAZ
+Units of Measurement Ontology (UO),Units of Measurement Ontology (UO)
+DXP,DXP
+HCOP,HCOP
+DSM-5,DSM-5
+PathoPhenoDB,PathoPhenoDB
+"Environmental conditions, treatments and exposures ontology (ECTO)","Environmental conditions, treatments and exposures ontology (ECTO)"
+ICD10AMAE,ICD10AMAE
+Mouse Developmental Stages (MmusDV),Mouse Developmental Stages (MmusDV)
+WP,WP
+RAM,RAM
+CSP,CSP
+MED-RT,MED-RT
+Uberon,Uberon
+MTHICPC2EAE,MTHICPC2EAE
+CMAP,CMAP
+ICNP,ICNP
+QMR,QMR
+CDT,CDT
+CLINGEN,CLINGEN
+IDGD,IDGD
+MetaCyc,MetaCyc
+OMS,OMS
+Monarch Disease Ontology (MONDO),Monarch Disease Ontology (MONDO)
+STRING,STRING
+Measurement Method Ontology (MMO),Measurement Method Ontology (MMO)
+MSIGDB,MSIGDB
+AIR,AIR
+EMAPA,EMAPA
+MCM,MCM
+NPOSCKAN,NPOSCKAN
+CIViC (Clinical Interpretations of Variants in Cancer),CIViC (Clinical Interpretations of Variants in Cancer)
+DOID,DOID
+ICD9CM,ICD9CM
+SOP,SOP
+CCF,CCF
+Entrez Gene,Entrez Gene
+CCC,CCC
+Biospatial Ontology (BSPO),Biospatial Ontology (BSPO)
+Disease Ontology,Disease Ontology
+ICD10,ICD10
+PNDS,PNDS
+HGNCHPO,HGNCHPO
+MeSH,MeSH
+CL,CL
+HCPCS,HCPCS
+Plant Ontology (PO),Plant Ontology (PO)
+MTHSPL,MTHSPL
+Ubergraph,Ubergraph
+Petagraph,Petagraph
+ICD10PCS,ICD10PCS
+NCIt OBO Edition (NCIT),NCIt OBO Edition (NCIT)
+PATO,PATO
+FooDB,FooDB
+UO,UO
+MTHICD9,MTHICD9
+RATHCOP,RATHCOP
+GS,GS
+HSCL038,HSCL038
+HRA KG,HRA KG
+Data Distillery,Data Distillery
+SPOKE,SPOKE
+NPO,NPO
+PCDS,PCDS
+SNOMEDCT_US,SNOMEDCT_US
+AZ,AZ
+Evolutionary Rate Covariation,Evolutionary Rate Covariation
+VCCF,VCCF
+CLINVAR,CLINVAR
+AOD,AOD
+HPO,HPO
+ORPHANET,ORPHANET
+CST,CST
+SNM,SNM
+UniProt,UniProt
+PDQ,PDQ
+4DN,4DN
+USPMG,USPMG
+Bgee,Bgee
+GTEXEQTL,GTEXEQTL
+Gene Ontology,Gene Ontology
+hetio-dag,hetio-dag
+HL7V3.0,HL7V3.0
+AOT,AOT
+MTH,MTH
+ICD10CM,ICD10CM
+LCH,LCH
+PCL,PCL
+SPN,SPN
+UWDA,UWDA
+Molecular Interactions Controlled Vocabulary (MI),Molecular Interactions Controlled Vocabulary (MI)
+InterPro,InterPro
+ICPC2ICD10ENG,ICPC2ICD10ENG
+Human Phenotype Ontology (HPO),Human Phenotype Ontology (HPO)
+CCS,CCS
+LCH_NW,LCH_NW
+Mammalian Phenotype Ontology (MP),Mammalian Phenotype Ontology (MP)
+MI,MI
+PPAC,PPAC
+ULT,ULT
+DOAF,DOAF
+ERCCRBP,ERCCRBP
+MEDLINE,MEDLINE
+LNC,LNC
+C. elegans development ontology (WBls),C. elegans development ontology (WBls)
+Plant Phenology Ontology (PPO),Plant Phenology Ontology (PPO)
+MMSL,MMSL
+NCBI,NCBI
+HPOMP,HPOMP
+Incomplete Interactome,Incomplete Interactome
+ICD10AE,ICD10AE
+Plant Experimental Conditions Ontology (PECO),Plant Experimental Conditions Ontology (PECO)
+MTHMST,MTHMST
+SBO,SBO
+MP,MP
+Evidence and Conclusion Ontology (ECO),Evidence and Conclusion Ontology (ECO)
+WikiPathways,WikiPathways
+EDAM,EDAM
+GENCODEHSCLO38,GENCODEHSCLO38
+ATC,ATC
+CPT,CPT
+NDDF,NDDF
+RCDSY,RCDSY
+FMA,FMA
+GENCODE,GENCODE
+HCPT,HCPT
+FALDO,FALDO
+SPARC KG,SPARC KG
+BindingDB,BindingDB
+Protein Ontology (PRO),Protein Ontology (PRO)
+VANDF,VANDF
+Ascomycete phenotype ontology (APO),Ascomycete phenotype ontology (APO)
+HRAVS,HRAVS
+NUCCHCPT,NUCCHCPT
+ICPC,ICPC
+DrugBank,DrugBank
+SNMI,SNMI
+DRUGBANK,DRUGBANK
+DISEASES,DISEASES
+RCDAE,RCDAE
+REACTOME,REACTOME
+HCDT,HCDT
+CHEBI,CHEBI
+MTHCMSFRF,MTHCMSFRF
+ClinicalTrials.gov,ClinicalTrials.gov
+Plant Trait Ontology (TO),Plant Trait Ontology (TO)
+RXNORM,RXNORM
+NOC,NOC
+EFO,EFO
+MEDLINEPLUS,MEDLINEPLUS
+MSH,MSH
+LINCS,LINCS
+NEU,NEU
+HSCLO,HSCLO
+IDGP,IDGP
+MW,MW
+Medical Action Ontology (MAXO),Medical Action Ontology (MAXO)
+CCSR_ICD10CM,CCSR_ICD10CM
+Human Protein Atlas,Human Protein Atlas
+GTEXEXP,GTEXEXP
+Pfam,Pfam
+Ontology of Biological Attributes (OBA),Ontology of Biological Attributes (OBA)
+Drosophila Anatomy Ontology (FBbt),Drosophila Anatomy Ontology (FBbt)
+MONDO,MONDO
+Vertebrate Breed Ontology (VBO),Vertebrate Breed Ontology (VBO)
+OMIM,OMIM
+MMX,MMX
+SRC,SRC
+CCSR_ICD10PCS,CCSR_ICD10PCS
+Cell Ontology,Cell Ontology
+MTHICPC2ICD10AE,MTHICPC2ICD10AE
+NCI,NCI
+RCDSA,RCDSA
+GLYGEN,GLYGEN
+Food Ontology (FoodOn),Food Ontology (FoodOn)
+MEDCIN,MEDCIN
+JABL,JABL
+UNIPROT,UNIPROT
+Human Interactome Database,Human Interactome Database
+Phenotype and Trait Ontology (PATO),Phenotype and Trait Ontology (PATO)
+ORDO,ORDO
+CHV,CHV
+SNOMEDCT_VET,SNOMEDCT_VET
+PATRIC,PATRIC
+MGI,MGI
+PROTEOFORM,PROTEOFORM
+GLYCOCOO,GLYCOCOO
+GLYCANS,GLYCANS
+UMD,UMD
+CPM,CPM
+GTEXCOEXP,GTEXCOEXP
+HL7V2.5,HL7V2.5
+ICPC2P,ICPC2P
+Environment Ontology (ENVO),Environment Ontology (ENVO)
+MDR,MDR
+Population and Community Ontology (PCO),Population and Community Ontology (PCO)
+C. elegans phenotype (WBPhenotype),C. elegans phenotype (WBPhenotype)
+LMHA,LMHA
+MVX,MVX
+Sequence Ontology (SO),Sequence Ontology (SO)
+PSY,PSY
+HSAPDV,HSAPDV
+MEDI,MEDI
+STARGEO,STARGEO
+ICD10AM,ICD10AM
+CVX,CVX
+DDB,DDB
+ChEMBL,ChEMBL
+UNIPROTKB,UNIPROTKB
+BI,BI
+SIDER,SIDER
+Protein Common Interface Database (ProtCID),Protein Common Interface Database (ProtCID)
+OBI,OBI
+RO,RO
+PGO,PGO
+CCPSS,CCPSS
+ERCCREG,ERCCREG
+Reactome,Reactome
+Kyoto Encyclopedia of Genes and Genomes (KEGG),Kyoto Encyclopedia of Genes and Genomes (KEGG)
+GO,GO
+ASP2019,ASP2019
+DGN,DGN
+ALT,ALT
+NANDA-I,NANDA-I
+MOTRPAC,MOTRPAC
+ICPC2EENG,ICPC2EENG
+RCD,RCD
