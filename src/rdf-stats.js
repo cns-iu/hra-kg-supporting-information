@@ -55,9 +55,9 @@ async function rdfStats(inputStream, format, prefix = undefined) {
   }
   return {
     nodes: nodes.size,
-    nodeTypes: nodeTypes.size,
+    node_types: nodeTypes.size,
     edges: edges,
-    edgeTypes: edgeTypes.size,
+    edge_types: edgeTypes.size,
   };
 }
 
@@ -66,10 +66,7 @@ async function main() {
   const format = process.argv[2];
   const prefix = process.argv.length > 3 ? process.argv[3] : undefined;
 
-  const { nodes, nodeTypes, edges, edgeTypes } = await rdfStats(inputStream, format, prefix);
-  console.log('Nodes:', nodes);
-  console.log('Nodes Types:', nodeTypes);
-  console.log('Edges:', edges);
-  console.log('Edge Types:', edgeTypes);
+  const results = await rdfStats(inputStream, format, prefix);
+  console.log(JSON.stringify(results));
 }
 main();
