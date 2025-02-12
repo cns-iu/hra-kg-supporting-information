@@ -5,32 +5,57 @@ function hashString(str) {
   return crypto.createHash('md5').update(str).digest('base64');
 }
 
-// sckan has some invalid URIs. We'll ignore those.
-formats.parsers.set('application/rdf+xml', new RdfXmlParser({validateUri: false}))
+// SPARC (SCKAN) has some invalid URIs. We'll ignore those.
+formats.parsers.set('application/rdf+xml', new RdfXmlParser({ validateUri: false }));
 
-async function rdfStats(inputStream, format) {
+const TYPE_PREDICATES = new Set([
+  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', // rdf:type
+  'http://www.w3.org/2000/01/rdf-schema#subClassOf', // rdfs:subClassOf
+]);
+
+const BASE_CLASSES = new Set([
+  'http://www.w3.org/2002/07/owl#Class', // owl:Class
+  'http://www.w3.org/2000/01/rdf-schema#Class', // rdfs:Class
+]);
+
+async function rdfStats(inputStream, format, prefix = undefined) {
   const nodes = new Set();
+  const nodeTypes = new Set();
   let edges = 0;
   const edgeTypes = new Set();
 
   const parser = formats.parsers.import(format, inputStream, { iriValidationStrategy: 'none', validateUri: false });
   for await (const { subject, predicate, object } of parser) {
-    let subjectHash, objectHash;
+    let subjectHash, objectHash, nodeMatched = false;
     if (subject.termType === 'NamedNode') {
       subjectHash = hashString(subject.value);
-      nodes.add(subjectHash);
+      if (!prefix || subject.value.startsWith(prefix)) {
+        nodes.add(subjectHash);
+        nodeMatched = true;
+      }
     }
     if (object.termType === 'NamedNode') {
       objectHash = hashString(object.value);
-      nodes.add(objectHash);
+      if (!prefix || object.value.startsWith(prefix)) {
+        nodes.add(objectHash);
+        nodeMatched = true;
+      }
     }
-    if (subjectHash && objectHash) {
+    if (subjectHash && objectHash && nodeMatched) {
       edges++;
       edgeTypes.add(hashString(predicate.value));
+
+      // Check if a predicate is assigning a type
+      if (TYPE_PREDICATES.has(predicate.value)) {
+        // If so, both sides are "Classes"
+        nodeTypes.add(subjectHash);
+        nodeTypes.add(objectHash);
+      }
     }
   }
   return {
     nodes: nodes.size,
+    nodeTypes: nodeTypes.size,
     edges: edges,
     edgeTypes: edgeTypes.size,
   };
@@ -39,9 +64,11 @@ async function rdfStats(inputStream, format) {
 async function main() {
   const inputStream = process.stdin;
   const format = process.argv[2];
+  const prefix = process.argv.length > 3 ? process.argv[3] : undefined;
 
-  const { nodes, edges, edgeTypes } = await rdfStats(inputStream, format);
+  const { nodes, nodeTypes, edges, edgeTypes } = await rdfStats(inputStream, format, prefix);
   console.log('Nodes:', nodes);
+  console.log('Nodes Types:', nodeTypes);
   console.log('Edges:', edges);
   console.log('Edge Types:', edgeTypes);
 }
