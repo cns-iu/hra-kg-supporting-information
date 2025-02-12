@@ -87,7 +87,12 @@ Frequently used queries run via the SPARQL endpoint of the HRA API are listed in
 
 # Comparison to other KGs
 
+## Statistics for RDF-based KGs
+
 To get statistics for RDF-based KGs, please run: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb)
+
+## Comparison queries
+ A full list of SPARQL and Cypher queries can be found in the Supporting Information at [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md).
 
 # Resources
 Additional links to documentation of KG-relevant terminology and concepts:
