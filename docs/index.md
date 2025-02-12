@@ -85,6 +85,10 @@ Frequently used queries run via the SPARQL endpoint of the HRA API are listed in
 | *HRApop*                                              	|                                                                                                                                                                       	|       	|
 | Number of Anatomical Structures with Cell Summaries 	| 60                                                                                                                                                                    	| [Query](https://apps.humanatlas.io/api/grlc/hra-pop.html#get-/as-count) 	|
 
+# Comparison to other KGs
+
+To get statistics for RDF-based KGs, please run: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb)
+
 # Resources
 Additional links to documentation of KG-relevant terminology and concepts:
 
