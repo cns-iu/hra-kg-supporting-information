@@ -1,10 +1,12 @@
 .venv
 .vscode
 
+node_modules
+
 # folder with large GLBs
 downloaded-organs
 
 # folder with validation reports
 notebooks/data/validation-reports
-
 notebooks/output/onto
+notebooks/output/rdf-kg
