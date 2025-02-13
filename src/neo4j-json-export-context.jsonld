@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@base": "urn:neo4j:instances/",
+    "@vocab": "urn:neo4j:schema#",
+    "properties": "@nest",
+    "id": "@id",
+    "type": "@type",
+    "label": "@type",
+    "labels": "@type"
+  }
+}
