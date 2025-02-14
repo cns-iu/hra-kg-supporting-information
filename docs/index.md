@@ -89,10 +89,13 @@ Frequently used queries run via the SPARQL endpoint of the HRA API are listed in
 
 ## Statistics for RDF-based KGs
 
-To get statistics for RDF-based KGs, please run: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb)
+To get statistics for RDF-based KGs, please run [this notebook](../notebooks/rdf-kg-stats.ipynb)
 
 ## Comparison queries
- A full list of SPARQL and Cypher queries can be found at [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md).
+ A full list of SPARQL and Cypher queries can be found [here](../comparison-queries.md).
+
+## Size
+RDF-based KGs were converted to N-Quads to get the total uncompressed size for each. To compare sizes, Neo4J KGs were converted to RDF N-Quad format; the context is [here](../src/neo4j-json-export-context.jsonld). Documentation is [here](../comparison-queries.md).
 
 # Resources
 Additional links to documentation of KG-relevant terminology and concepts:
@@ -101,6 +104,9 @@ Additional links to documentation of KG-relevant terminology and concepts:
 - Wouter Beek (co-founder of [Triply](https://triply.cc/en-US), see also [https://wouterbeek.github.io/](https://wouterbeek.github.io/)) recorded this detailed series of tutorials about SPARQL on [YouTube](https://www.youtube.com/playlist?list=PLaa8QYrMzXNnzY-4YVM5507iZuESWVcnU).
 - A video about ontologies by co-author Mark Musen is [here](https://youtu.be/PrLY3Gzj6w4?si=ToMyiT1ZJLufbxT7).
 - A talk titled "FAIR Data Knowledge Graphs – From Theory to Practice" by Tom Plasterer, Ph.D., Senior Director of Bioinformatics and BioPharmaceutical R\&D at [AstraZeneca](https://www.astrazeneca.com/) is available on [YouTube](https://www.youtube.com/watch?v=Z0U2O2FjL6w).
+
+# Using LLMs and RAG with HRA KG
+This notebook shows how to setup a basic vector database populated from the HRA KG which is then used to augment prompts to an LLM: [https://github.com/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-rag.ipynb](https://github.com/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-rag.ipynb)
 
 # Mermaid Diagrams
 
