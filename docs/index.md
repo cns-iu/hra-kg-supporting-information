@@ -89,13 +89,13 @@ Frequently used queries run via the SPARQL endpoint of the HRA API are listed in
 
 ## Statistics for RDF-based KGs
 
-To get statistics for RDF-based KGs, please run [this notebook](../notebooks/rdf-kg-stats.ipynb)
+To get statistics for RDF-based KGs, please run: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/notebooks/rdf-kg-stats.ipynb)
 
 ## Comparison queries
- A full list of SPARQL and Cypher queries can be found [here](../comparison-queries.md).
+ A full list of SPARQL and Cypher queries can be found at [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md).
 
 ## Size
-RDF-based KGs were converted to N-Quads to get the total uncompressed size for each. To compare sizes, Neo4J KGs were converted to RDF N-Quad format; the context is [here](../src/neo4j-json-export-context.jsonld). Documentation is [here](../comparison-queries.md).
+RDF-based KGs were converted to N-Quads to get the total uncompressed size for each. To compare sizes, Neo4J KGs were converted to RDF N-Quad format; the context is at [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/src/neo4j-json-export-context.jsonld]([../src/neo4j-json-export-context.jsonld](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/src/neo4j-json-export-context.jsonld)). Documentation is at: [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md]([../comparison-queries.md](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/comparison-queries.md)).
 
 # Resources
 Additional links to documentation of KG-relevant terminology and concepts:
