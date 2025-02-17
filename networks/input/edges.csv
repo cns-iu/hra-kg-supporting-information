@@ -332,93 +332,46 @@ Data Distillery,REACTOME
 Data Distillery,DGN
 Data Distillery,BIOMARKER
 Data Distillery,OTG
-SPOKE,Entrez Gene
-SPOKE,LabeledIn
-SPOKE,MEDLINE
-SPOKE,MeSH
-SPOKE,Pathway Interaction Database
-SPOKE,Disease Ontology
-SPOKE,DISEASES
-SPOKE,DrugCentral
-SPOKE,Gene Ontology
-SPOKE,GWAS Catalog
-SPOKE,Reactome
-SPOKE,LINCS L1000
-SPOKE,TISSUES
-SPOKE,Uberon
-SPOKE,WikiPathways
-SPOKE,BindingDB
-SPOKE,DisGeNET
-SPOKE,DrugBank
-SPOKE,MEDI
-SPOKE,PREDICT
-SPOKE,SIDER
-SPOKE,Bgee
-SPOKE,DOAF
-SPOKE,ehrlink
-SPOKE,Evolutionary Rate Covariation
-SPOKE,hetio-dag
-SPOKE,Incomplete Interactome
-SPOKE,Human Interactome Database
-SPOKE,STARGEO
-SPOKE,ChEMBL
-SPOKE,UniProt
-SPOKE,STRING
-SPOKE,Online Mendelian Inheritance in Man (OMIM)
-SPOKE,FooDB
-SPOKE,CIViC (Clinical Interpretations of Variants in Cancer)
-SPOKE,Genomics of Drug Sensitivity in Cancer (GDSC)
-SPOKE,ClinicalTrials.gov
-SPOKE,Human Protein Atlas
-SPOKE,Cell Ontology
-SPOKE,Kyoto Encyclopedia of Genes and Genomes (KEGG)
-SPOKE,MetaCyc
-SPOKE,PATRIC
-SPOKE,NCBI Taxonomy
-SPOKE,PathoPhenoDB
-SPOKE,Pfam
-SPOKE,InterPro
-SPOKE,Protein Common Interface Database (ProtCID)
 Ubergraph,Uberon
 Ubergraph,CL
 Ubergraph,PCL
-Ubergraph,Gene Ontology (GO)
-Ubergraph,Biospatial Ontology (BSPO)
-Ubergraph,Phenotype and Trait Ontology (PATO)
-Ubergraph,Ontology of Biological Attributes (OBA)
-Ubergraph,Human Phenotype Ontology (HPO)
-Ubergraph,Mammalian Phenotype Ontology (MP)
-Ubergraph,Fission Yeast Phenotype Ontology (FYPO)
-Ubergraph,Monarch Disease Ontology (MONDO)
-Ubergraph,Chemical Entities of Biological Interest (ChEBI)
+Ubergraph,GO
+Ubergraph,BSPO
+Ubergraph,PATO
+Ubergraph,OBA
+Ubergraph,HPO
+Ubergraph,MP
+Ubergraph,FYPO
+Ubergraph,MONDO
+Ubergraph,CHEBI
 Ubergraph,RO
-Ubergraph,"Environmental conditions, treatments and exposures ontology (ECTO)"
-Ubergraph,Environment Ontology (ENVO)
-Ubergraph,Ontology for Biomedical Investigations (OBI)
-Ubergraph,Medical Action Ontology (MAXO)
-Ubergraph,Evidence and Conclusion Ontology (ECO)
+Ubergraph,ECTO
+Ubergraph,ENVO
+Ubergraph,OBI
+Ubergraph,MAXO
+Ubergraph,ECO
 Ubergraph,NCBI Taxonomy
-Ubergraph,Protein Ontology (PRO)
-Ubergraph,NCIt OBO Edition (NCIT)
-Ubergraph,Plant Ontology (PO)
-Ubergraph,Plant Phenology Ontology (PPO)
-Ubergraph,Plant Trait Ontology (TO)
-Ubergraph,Plant Experimental Conditions Ontology (PECO)
-Ubergraph,Drosophila Anatomy Ontology (FBbt)
-Ubergraph,Food Ontology (FoodOn)
-Ubergraph,Population and Community Ontology (PCO)
-Ubergraph,Information Artifact Ontology (IAO)
-Ubergraph,Measurement Method Ontology (MMO)
-Ubergraph,Molecular Interactions Controlled Vocabulary (MI)
-Ubergraph,Sequence Ontology (SO)
-Ubergraph,C. elegans Gross Anatomy Ontology (WBbt)
-Ubergraph,C. elegans development ontology (WBls)
-Ubergraph,C. elegans phenotype (WBPhenotype)
-Ubergraph,Zebrafish anatomy and development ontology (ZFA)
-Ubergraph,Ascomycete phenotype ontology (APO)
-Ubergraph,Mouse Developmental Stages (MmusDV)
-Ubergraph,Vertebrate Breed Ontology (VBO)
-Ubergraph,Units of Measurement Ontology (UO)
+Ubergraph,PRO
+Ubergraph,NCIT
+Ubergraph,PO
+Ubergraph,PPO
+Ubergraph,TO
+Ubergraph,PECO
+Ubergraph,FBbt
+Ubergraph,FoodOn
+Ubergraph,PCO
+Ubergraph,IAO
+Ubergraph,MMO
+Ubergraph,MI
+Ubergraph,SO
+Ubergraph,WBbt
+Ubergraph,WBIs
+Ubergraph,WBPhenotype
+Ubergraph,ZFA
+Ubergraph,APO
+Ubergraph,MmusDV
+Ubergraph,VBO
+Ubergraph,UO
 ORKG,ORKG
 ORKG,WIKIDATA
 ORKG,OEO

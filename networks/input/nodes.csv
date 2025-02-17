@@ -1,295 +1,236 @@
 Label,Type,ID
-PathoPhenoDB,Ontology,PathoPhenoDB
-ICPC2EENG,Ontology,ICPC2EENG
-SRC,Ontology,SRC
-REACTOME,Ontology,REACTOME
-PR,Ontology,PR
-HPO,Ontology,HPO
-FALDO,Ontology,FALDO
-DISEASES,Ontology,DISEASES
-ChEMBL,Ontology,ChEMBL
-Incomplete Interactome,Ontology,Incomplete Interactome
-ICD10PCS,Ontology,ICD10PCS
-RCD,Ontology,RCD
-Ascomycete phenotype ontology (APO),Ontology,Ascomycete phenotype ontology (APO)
-GWAS Catalog,Ontology,GWAS Catalog
-DRON,Ontology,DRON
-ICPC,Ontology,ICPC
-RXNORM,Ontology,RXNORM
-PATO,Ontology,PATO
-FOODON,Ontology,FOODON
-SPARC KG,KG,SPARC KG
-Reactome,Ontology,Reactome
-MSIGDB,Ontology,MSIGDB
-MEDCIN,Ontology,MEDCIN
-BindingDB,Ontology,BindingDB
-MEDI,Ontology,MEDI
-SNOMEDCT_VET,Ontology,SNOMEDCT_VET
-MetaCyc,Ontology,MetaCyc
-MTHICPC2EAE,Ontology,MTHICPC2EAE
-SO,Ontology,SO
-HCDT,Ontology,HCDT
-Bgee,Ontology,Bgee
-RATHCOP,Ontology,RATHCOP
-Measurement Method Ontology (MMO),Ontology,Measurement Method Ontology (MMO)
-DSM-5,Ontology,DSM-5
-C. elegans Gross Anatomy Ontology (WBbt),Ontology,C. elegans Gross Anatomy Ontology (WBbt)
-DCT,Ontology,DCT
-ATC,Ontology,ATC
-RAM,Ontology,RAM
-RCDSA,Ontology,RCDSA
-Plant Phenology Ontology (PPO),Ontology,Plant Phenology Ontology (PPO)
-Mouse Developmental Stages (MmusDV),Ontology,Mouse Developmental Stages (MmusDV)
-AGRO,Ontology,AGRO
-DIDEO,Ontology,DIDEO
-SPN,Ontology,SPN
-DGN,Ontology,DGN
-STATO,Ontology,STATO
-JABL,Ontology,JABL
-PSY,Ontology,PSY
-GTEXCOEXP,Ontology,GTEXCOEXP
-ALT,Ontology,ALT
-Information Artifact Ontology (IAO),Ontology,Information Artifact Ontology (IAO)
-GS,Ontology,GS
-DisGeNET,Ontology,DisGeNET
-Evolutionary Rate Covariation,Ontology,Evolutionary Rate Covariation
-STRING,Ontology,STRING
-QMR,Ontology,QMR
-Plant Experimental Conditions Ontology (PECO),Ontology,Plant Experimental Conditions Ontology (PECO)
-Population and Community Ontology (PCO),Ontology,Population and Community Ontology (PCO)
-ICD10CM,Ontology,ICD10CM
-EDAM,Ontology,EDAM
-AOD,Ontology,AOD
-CDT,Ontology,CDT
-PREDICT,Ontology,PREDICT
-Human Phenotype Ontology (HPO),Ontology,Human Phenotype Ontology (HPO)
-Molecular Interactions Controlled Vocabulary (MI),Ontology,Molecular Interactions Controlled Vocabulary (MI)
-HCOP,Ontology,HCOP
-CCC,Ontology,CCC
-FOBI,Ontology,FOBI
-GENCODE,Ontology,GENCODE
-Plant Ontology (PO),Ontology,Plant Ontology (PO)
-HL7V3.0,Ontology,HL7V3.0
-GLYGEN,Ontology,GLYGEN
-AFP,Ontology,AFP
-Fission Yeast Phenotype Ontology (FYPO),Ontology,Fission Yeast Phenotype Ontology (FYPO)
-SNMI,Ontology,SNMI
-TISSUES,Ontology,TISSUES
-Zebrafish anatomy and development ontology (ZFA),Ontology,Zebrafish anatomy and development ontology (ZFA)
-CLINVAR,Ontology,CLINVAR
-ICD10,Ontology,ICD10
-CIViC (Clinical Interpretations of Variants in Cancer),Ontology,CIViC (Clinical Interpretations of Variants in Cancer)
 GTEXEQTL,Ontology,GTEXEQTL
-HPOMP,Ontology,HPOMP
-Food Ontology (FoodOn),Ontology,Food Ontology (FoodOn)
-BFO,Ontology,BFO
-ICD9CM,Ontology,ICD9CM
-CL,Ontology,CL
-HL7V2.5,Ontology,HL7V2.5
-ERCCRBP,Ontology,ERCCRBP
-CVX,Ontology,CVX
-MEDLINEPLUS,Ontology,MEDLINEPLUS
-MPMGI,Ontology,MPMGI
-ORKG,KG,ORKG
-HSCLO,Ontology,HSCLO
-DrugBank,Ontology,DrugBank
-ICD10AE,Ontology,ICD10AE
-MTHICPC2ICD10AE,Ontology,MTHICPC2ICD10AE
-USPMG,Ontology,USPMG
-Disease Ontology,Ontology,Disease Ontology
-WIKIDATA,Ontology,WIKIDATA
-NCBI,Ontology,NCBI
-ORPHANET,Ontology,ORPHANET
-GO,Ontology,GO
-SBO,Ontology,SBO
-UO,Ontology,UO
-GENCODEHSCLO38,Ontology,GENCODEHSCLO38
-KF,Ontology,KF
-CST,Ontology,CST
-OMIM,Ontology,OMIM
-UMD,Ontology,UMD
-EMAPA,Ontology,EMAPA
-WP,Ontology,WP
-SIDER,Ontology,SIDER
-OEO,Ontology,OEO
-AOT,Ontology,AOT
-CDCREC,Ontology,CDCREC
-ICPC2P,Ontology,ICPC2P
-WikiPathways,Ontology,WikiPathways
-BAO,Ontology,BAO
-DrugCentral,Ontology,DrugCentral
-CCF,Ontology,CCF
-MMX,Ontology,MMX
-GAZ,Ontology,GAZ
-APOLLO_SV,Ontology,APOLLO_SV
-Chemical Entities of Biological Interest (ChEBI),Ontology,Chemical Entities of Biological Interest (ChEBI)
-MI,Ontology,MI
-CLINGEN,Ontology,CLINGEN
-ICD10AM,Ontology,ICD10AM
-OBIB,Ontology,OBIB
-HGNCHPO,Ontology,HGNCHPO
-MTHCMSFRF,Ontology,MTHCMSFRF
-PGO,Ontology,PGO
-Human Interactome Database,Ontology,Human Interactome Database
-ASP2019,Ontology,ASP2019
-RO,Ontology,RO
-FMA,Ontology,FMA
-CHEBI,Ontology,CHEBI
-NOC,Ontology,NOC
-MOTRPAC,Ontology,MOTRPAC
-Ontology of Biological Attributes (OBA),Ontology,Ontology of Biological Attributes (OBA)
-Biospatial Ontology (BSPO),Ontology,Biospatial Ontology (BSPO)
-ENVO,Ontology,ENVO
-ZFS,Ontology,ZFS
-Protein Common Interface Database (ProtCID),Ontology,Protein Common Interface Database (ProtCID)
-ULT,Ontology,ULT
-FooDB,Ontology,FooDB
-Gene Ontology (GO),Ontology,Gene Ontology (GO)
-Ontology for Biomedical Investigations (OBI),Ontology,Ontology for Biomedical Investigations (OBI)
-NCIt OBO Edition (NCIT),Ontology,NCIt OBO Edition (NCIT)
-SNOMEDCT_US,Ontology,SNOMEDCT_US
-PROTEOFORM,Ontology,PROTEOFORM
-DOAF,Ontology,DOAF
-OPMI,Ontology,OPMI
-NPO,Ontology,NPO
-COSTAR,Ontology,COSTAR
-DRUGBANK,Ontology,DRUGBANK
-OTG,Ontology,OTG
-HRA KG,KG,HRA KG
-HCPT,Ontology,HCPT
-ICPC2ICD10ENG,Ontology,ICPC2ICD10ENG
-ClinicalTrials.gov,Ontology,ClinicalTrials.gov
-SRAO,Ontology,SRAO
-BI,Ontology,BI
-IAO,Ontology,IAO
-CMAP,Ontology,CMAP
-STARGEO,Ontology,STARGEO
-CCPSS,Ontology,CCPSS
-MED-RT,Ontology,MED-RT
-Pfam,Ontology,Pfam
-BIOMARKER,Ontology,BIOMARKER
-MW,Ontology,MW
-NANDA-I,Ontology,NANDA-I
-ERCCREG,Ontology,ERCCREG
-CLO,Ontology,CLO
-MEDLINE,Ontology,MEDLINE
-NCIT,Ontology,NCIT
-C. elegans development ontology (WBls),Ontology,C. elegans development ontology (WBls)
-NIC,Ontology,NIC
-IDGP,Ontology,IDGP
-Uberon,Ontology,Uberon
-InterPro,Ontology,InterPro
-CCSR_ICD10PCS,Ontology,CCSR_ICD10PCS
-Sequence Ontology (SO),Ontology,Sequence Ontology (SO)
-PCL,Ontology,PCL
-Plant Trait Ontology (TO),Ontology,Plant Trait Ontology (TO)
-GENCODEHSCLO,Ontology,GENCODEHSCLO
-MTHMST,Ontology,MTHMST
-ICF-CY,Ontology,ICF-CY
-AZ,Ontology,AZ
-Units of Measurement Ontology (UO),Ontology,Units of Measurement Ontology (UO)
-OMS,Ontology,OMS
-PATRIC,Ontology,PATRIC
-Pathway Interaction Database,Ontology,Pathway Interaction Database
-UBERON,Ontology,UBERON
-Data Distillery,KG,Data Distillery
-DOID,Ontology,DOID
-DXP,Ontology,DXP
-NPOSCKAN,Ontology,NPOSCKAN
-MDR,Ontology,MDR
-GLYCANS,Ontology,GLYCANS
-EFO,Ontology,EFO
-MP,Ontology,MP
-NCBITaxon,Ontology,NCBITaxon
-hetio-dag,Ontology,hetio-dag
-Human Protein Atlas,Ontology,Human Protein Atlas
-PPAC,Ontology,PPAC
-MCM,Ontology,MCM
-LCH_NW,Ontology,LCH_NW
-UniProt,Ontology,UniProt
+PSY,Ontology,PSY
 CHV,Ontology,CHV
-NCI,Ontology,NCI
-LabeledIn,Ontology,LabeledIn
-ENM,Ontology,ENM
-AIR,Ontology,AIR
-USP,Ontology,USP
-GLYCORDF,Ontology,GLYCORDF
-"Environmental conditions, treatments and exposures ontology (ECTO)",Ontology,"Environmental conditions, treatments and exposures ontology (ECTO)"
-MGI,Ontology,MGI
-LCH,Ontology,LCH
-Entrez Gene,Ontology,Entrez Gene
-AFR,Ontology,AFR
-Petagraph,KG,Petagraph
-VCCF,Ontology,VCCF
-CPT,Ontology,CPT
-RCDAE,Ontology,RCDAE
-OMIT,Ontology,OMIT
-OBI,Ontology,OBI
-NCBI Taxonomy,Ontology,NCBI Taxonomy
-CHMO,Ontology,CHMO
-MTHICD9,Ontology,MTHICD9
-UWDA,Ontology,UWDA
-4DN,Ontology,4DN
-ICD10AMAE,Ontology,ICD10AMAE
-UNIPROT,Ontology,UNIPROT
-Gene Ontology,Ontology,Gene Ontology
-Evidence and Conclusion Ontology (ECO),Ontology,Evidence and Conclusion Ontology (ECO)
-PNDS,Ontology,PNDS
-RCDSY,Ontology,RCDSY
-PCDS,Ontology,PCDS
-MVX,Ontology,MVX
+RCDSA,Ontology,RCDSA
+HL7V2.5,Ontology,HL7V2.5
+NPO,Ontology,NPO
+DXP,Ontology,DXP
 UNIPROTKB,Ontology,UNIPROTKB
-SPOKE,KG,SPOKE
-HGNC,Ontology,HGNC
-MMSL,Ontology,MMSL
-HSCL038,Ontology,HSCL038
-MSH,Ontology,MSH
-ICNP,Ontology,ICNP
-SNM,Ontology,SNM
-WHO,Ontology,WHO
-Environment Ontology (ENVO),Ontology,Environment Ontology (ENVO)
-HCPCS,Ontology,HCPCS
-VANDF,Ontology,VANDF
-GTEXEXP,Ontology,GTEXEXP
-MTH,Ontology,MTH
-Drosophila Anatomy Ontology (FBbt),Ontology,Drosophila Anatomy Ontology (FBbt)
-MeSH,Ontology,MeSH
-HSAPDV,Ontology,HSAPDV
-ehrlink,Ontology,ehrlink
-LMHA,Ontology,LMHA
-ORDO,Ontology,ORDO
-LINCS L1000,Ontology,LINCS L1000
-Vertebrate Breed Ontology (VBO),Ontology,Vertebrate Breed Ontology (VBO)
-Kyoto Encyclopedia of Genes and Genomes (KEGG),Ontology,Kyoto Encyclopedia of Genes and Genomes (KEGG)
-Mammalian Phenotype Ontology (MP),Ontology,Mammalian Phenotype Ontology (MP)
-Medical Action Ontology (MAXO),Ontology,Medical Action Ontology (MAXO)
-ICF,Ontology,ICF
-NDDF,Ontology,NDDF
-LINCS,Ontology,LINCS
-PDQ,Ontology,PDQ
-DDB,Ontology,DDB
-Cell Ontology,Ontology,Cell Ontology
-Genomics of Drug Sensitivity in Cancer (GDSC),Ontology,Genomics of Drug Sensitivity in Cancer (GDSC)
-AFRL,Ontology,AFRL
-PO,Ontology,PO
-Ubergraph,KG,Ubergraph
-Phenotype and Trait Ontology (PATO),Ontology,Phenotype and Trait Ontology (PATO)
-Online Mendelian Inheritance in Man (OMIM),Ontology,Online Mendelian Inheritance in Man (OMIM)
-NUCCHCPT,Ontology,NUCCHCPT
-NEU,Ontology,NEU
-CCS,Ontology,CCS
-CCSR_ICD10CM,Ontology,CCSR_ICD10CM
-Monarch Disease Ontology (MONDO),Ontology,Monarch Disease Ontology (MONDO)
-OBCS,Ontology,OBCS
-IDGD,Ontology,IDGD
-Protein Ontology (PRO),Ontology,Protein Ontology (PRO)
-C. elegans phenotype (WBPhenotype),Ontology,C. elegans phenotype (WBPhenotype)
-HRAVS,Ontology,HRAVS
 GLYCOCOO,Ontology,GLYCOCOO
-SOP,Ontology,SOP
+BI,Ontology,BI
+ERCCREG,Ontology,ERCCREG
+MAXO,Ontology,MAXO
+ORKG,KG,ORKG
+GLYCANS,Ontology,GLYCANS
+PNDS,Ontology,PNDS
+ULT,Ontology,ULT
+DCT,Ontology,DCT
+MTHCMSFRF,Ontology,MTHCMSFRF
+RCD,Ontology,RCD
+LINCS,Ontology,LINCS
+ECTO,Ontology,ECTO
+HCPCS,Ontology,HCPCS
+GAZ,Ontology,GAZ
+IAO,Ontology,IAO
+WBPhenotype,Ontology,WBPhenotype
+ATC,Ontology,ATC
+CLO,Ontology,CLO
+HGNCHPO,Ontology,HGNCHPO
+VANDF,Ontology,VANDF
+CCC,Ontology,CCC
+NOC,Ontology,NOC
+PCO,Ontology,PCO
+VBO,Ontology,VBO
+NCBI Taxonomy,Ontology,NCBI Taxonomy
+CMAP,Ontology,CMAP
+HCDT,Ontology,HCDT
+REACTOME,Ontology,REACTOME
+PPAC,Ontology,PPAC
+DSM-5,Ontology,DSM-5
+PCDS,Ontology,PCDS
+LCH_NW,Ontology,LCH_NW
+QMR,Ontology,QMR
+OPMI,Ontology,OPMI
+BSPO,Ontology,BSPO
+OBI,Ontology,OBI
+SPN,Ontology,SPN
+ICD10CM,Ontology,ICD10CM
+ICPC,Ontology,ICPC
+MDR,Ontology,MDR
+UBERON,Ontology,UBERON
+HSCLO,Ontology,HSCLO
+MW,Ontology,MW
+CPT,Ontology,CPT
+AOT,Ontology,AOT
+ICD10,Ontology,ICD10
+HSCL038,Ontology,HSCL038
+OMS,Ontology,OMS
+ASP2019,Ontology,ASP2019
+PRO,Ontology,PRO
+ICD10AE,Ontology,ICD10AE
+NIC,Ontology,NIC
+FoodOn,Ontology,FoodOn
+ICF,Ontology,ICF
+MTHICPC2EAE,Ontology,MTHICPC2EAE
+PDQ,Ontology,PDQ
+USP,Ontology,USP
+COSTAR,Ontology,COSTAR
+MCM,Ontology,MCM
+CLINGEN,Ontology,CLINGEN
+JABL,Ontology,JABL
+SNM,Ontology,SNM
+MEDCIN,Ontology,MEDCIN
+AIR,Ontology,AIR
+MmusDV,Ontology,MmusDV
+MI,Ontology,MI
+UWDA,Ontology,UWDA
+EDAM,Ontology,EDAM
+ZFA,Ontology,ZFA
+MTHICPC2ICD10AE,Ontology,MTHICPC2ICD10AE
+FALDO,Ontology,FALDO
+Ubergraph,KG,Ubergraph
+GTEXCOEXP,Ontology,GTEXCOEXP
+WHO,Ontology,WHO
 HMAZ,Ontology,HMAZ
-CPM,Ontology,CPM
-MONDO,Ontology,MONDO
-MTHSPL,Ontology,MTHSPL
+HCOP,Ontology,HCOP
+CCSR_ICD10CM,Ontology,CCSR_ICD10CM
+APO,Ontology,APO
 LNC,Ontology,LNC
+GLYGEN,Ontology,GLYGEN
+MTH,Ontology,MTH
+NUCCHCPT,Ontology,NUCCHCPT
+RO,Ontology,RO
+Petagraph,KG,Petagraph
+SNOMEDCT_US,Ontology,SNOMEDCT_US
+MSH,Ontology,MSH
+HSAPDV,Ontology,HSAPDV
+NANDA-I,Ontology,NANDA-I
+GLYCORDF,Ontology,GLYCORDF
+ENVO,Ontology,ENVO
+BFO,Ontology,BFO
+NCBITaxon,Ontology,NCBITaxon
+CHEBI,Ontology,CHEBI
+FMA,Ontology,FMA
+DDB,Ontology,DDB
+PECO,Ontology,PECO
+VCCF,Ontology,VCCF
+WIKIDATA,Ontology,WIKIDATA
+WBbt,Ontology,WBbt
+AZ,Ontology,AZ
+MMSL,Ontology,MMSL
 CSP,Ontology,CSP
+Uberon,Ontology,Uberon
+NCBI,Ontology,NCBI
+OTG,Ontology,OTG
+UMD,Ontology,UMD
+AFR,Ontology,AFR
+ICPC2P,Ontology,ICPC2P
+MEDLINEPLUS,Ontology,MEDLINEPLUS
+LMHA,Ontology,LMHA
+MTHICD9,Ontology,MTHICD9
+TO,Ontology,TO
+DGN,Ontology,DGN
+DOID,Ontology,DOID
+OBIB,Ontology,OBIB
+SPARC KG,KG,SPARC KG
+APOLLO_SV,Ontology,APOLLO_SV
+MPMGI,Ontology,MPMGI
+ENM,Ontology,ENM
+CCF,Ontology,CCF
+STRING,Ontology,STRING
+RAM,Ontology,RAM
+OEO,Ontology,OEO
+AFRL,Ontology,AFRL
+CCSR_ICD10PCS,Ontology,CCSR_ICD10PCS
+UNIPROT,Ontology,UNIPROT
+PGO,Ontology,PGO
+CVX,Ontology,CVX
+PCL,Ontology,PCL
+FYPO,Ontology,FYPO
+UO,Ontology,UO
+ZFS,Ontology,ZFS
+MED-RT,Ontology,MED-RT
+Data Distillery,KG,Data Distillery
+ECO,Ontology,ECO
+ICF-CY,Ontology,ICF-CY
+OBA,Ontology,OBA
+NDDF,Ontology,NDDF
+FOBI,Ontology,FOBI
+FBbt,Ontology,FBbt
+CLINVAR,Ontology,CLINVAR
+SRAO,Ontology,SRAO
+DRON,Ontology,DRON
+SBO,Ontology,SBO
+GENCODE,Ontology,GENCODE
+RXNORM,Ontology,RXNORM
+ICNP,Ontology,ICNP
+AGRO,Ontology,AGRO
+MOTRPAC,Ontology,MOTRPAC
+CPM,Ontology,CPM
+OBCS,Ontology,OBCS
+HRA KG,KG,HRA KG
+EMAPA,Ontology,EMAPA
+DIDEO,Ontology,DIDEO
+GO,Ontology,GO
+CHMO,Ontology,CHMO
+HGNC,Ontology,HGNC
+ICPC2EENG,Ontology,ICPC2EENG
+GENCODEHSCLO,Ontology,GENCODEHSCLO
+HRAVS,Ontology,HRAVS
+GS,Ontology,GS
+SRC,Ontology,SRC
+HCPT,Ontology,HCPT
+NCIT,Ontology,NCIT
+CCPSS,Ontology,CCPSS
+MMX,Ontology,MMX
+AOD,Ontology,AOD
+MSIGDB,Ontology,MSIGDB
+HPOMP,Ontology,HPOMP
+MTHMST,Ontology,MTHMST
+PROTEOFORM,Ontology,PROTEOFORM
+PATO,Ontology,PATO
+ORDO,Ontology,ORDO
+DRUGBANK,Ontology,DRUGBANK
+EFO,Ontology,EFO
+IDGD,Ontology,IDGD
+PO,Ontology,PO
+LCH,Ontology,LCH
+FOODON,Ontology,FOODON
+CL,Ontology,CL
+KF,Ontology,KF
+BIOMARKER,Ontology,BIOMARKER
+SNOMEDCT_VET,Ontology,SNOMEDCT_VET
+RCDAE,Ontology,RCDAE
+CCS,Ontology,CCS
+SOP,Ontology,SOP
+RATHCOP,Ontology,RATHCOP
+MTHSPL,Ontology,MTHSPL
+NCI,Ontology,NCI
+OMIT,Ontology,OMIT
+PPO,Ontology,PPO
+MVX,Ontology,MVX
+ICD9CM,Ontology,ICD9CM
+IDGP,Ontology,IDGP
+ICD10AMAE,Ontology,ICD10AMAE
+GENCODEHSCLO38,Ontology,GENCODEHSCLO38
+GTEXEXP,Ontology,GTEXEXP
+ORPHANET,Ontology,ORPHANET
+NEU,Ontology,NEU
+4DN,Ontology,4DN
+STATO,Ontology,STATO
+NPOSCKAN,Ontology,NPOSCKAN
+ICPC2ICD10ENG,Ontology,ICPC2ICD10ENG
+AFP,Ontology,AFP
+ICD10AM,Ontology,ICD10AM
+WP,Ontology,WP
+WBIs,Ontology,WBIs
+ALT,Ontology,ALT
+CDT,Ontology,CDT
+PR,Ontology,PR
+HL7V3.0,Ontology,HL7V3.0
+SO,Ontology,SO
+OMIM,Ontology,OMIM
+MGI,Ontology,MGI
+RCDSY,Ontology,RCDSY
+MMO,Ontology,MMO
+CDCREC,Ontology,CDCREC
+SNMI,Ontology,SNMI
+BAO,Ontology,BAO
+MP,Ontology,MP
+USPMG,Ontology,USPMG
+HPO,Ontology,HPO
+CST,Ontology,CST
+ERCCRBP,Ontology,ERCCRBP
+MONDO,Ontology,MONDO
+ICD10PCS,Ontology,ICD10PCS
