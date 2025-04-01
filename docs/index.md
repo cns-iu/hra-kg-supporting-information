@@ -21,6 +21,8 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 
 # Basic Usage
 
+Examples are shown below. Advanced usage examples are shown at [https://github.com/cns-iu/hra-kg-supporting-information/blob/main/README.md](https://github.com/cns-iu/hra-kg-supporting-information/blob/main/README.md).
+
 ## Notebook to access an ASCT+B table for the kidney
 
 This notebook exemplarily retrieves the most recent versions of all ASCT+B tables in the latest hra collection in the JSON format, which is one of the most widely used data exchange formats, and that can be read by almost every modern programming language. It then selects the table for the kidney. It then inspects the kidney table by outputting the number of rows, and finally prints a small selection of AS, CT, gene Bs, and scientific references for a particular AS-CT-B record. 
