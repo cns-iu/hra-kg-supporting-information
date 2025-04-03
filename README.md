@@ -13,7 +13,7 @@ Here, we collect materials for the companion website at [https://cns-iu.github.i
 
 | Name                               	| Description                                                                                       	| URL                                                           	|                 	|
 |------------------------------------	|---------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|-----------------	|
-| hra-kg                             	| HRA Knowledge Graph                                                                               	| https://github.com/hubmapconsortium/hra-kg                    	| level_1_cell_id 	|
+| hra-kg                             	| HRA Knowledge Graph                                                                               	| https://github.com/hubmapconsortium/hra-kg                    	 	|
 | hra-api                            	| HRA API                                                                                           	| https://github.com/x-atlas-consortia/hra-api                  	|                 	|
 | hra-do-processor                   	| HRA DO Processor                                                                                  	| https://github.com/hubmapconsortium/hra-do-processor          	|                 	|
 | ccf-grlc                           	| Repository of canned SPARQL queries that can be run like a REST API endpoint via https://grlc.io  	| https://github.com/hubmapconsortium/ccf-grlc                  	|                 	|
