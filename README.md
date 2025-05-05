@@ -13,12 +13,12 @@ Here, we collect materials for the companion website at [https://cns-iu.github.i
 
 | Name                               	| Description                                                                                       	| URL                                                           	               	|
 |------------------------------------	|---------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
-| hra-kg                             	| HRA Knowledge Graph                                                                               	| GitHub (https://github.com/hubmapconsortium/hra-kg) and Zenodo ([https://doi.org/10.5281/zenodo.15323983](https://doi.org/10.5281/zenodo.15323983))                   	 	
+| hra-kg                             	| HRA Knowledge Graph                                                                               	| https://github.com/hubmapconsortium/hra-kg                   	 	
 | hra-api                            	| HRA API                                                                                           	| https://github.com/x-atlas-consortia/hra-api                  	|                 	
 | hra-do-processor                   	| HRA DO Processor                                                                                  	| https://github.com/hubmapconsortium/hra-do-processor          	|                 	
 | ccf-grlc                           	| Repository of canned SPARQL queries that can be run like a REST API endpoint via https://grlc.io  	| https://github.com/hubmapconsortium/ccf-grlc                  	|                 	
 | hra-ubkg-exporter                  	| A CLI for exporting a subset of the HRA KG to Unified Biomedical Knowledge Graph (UBKG) format    	| https://github.com/x-atlas-consortia/hra-ubkg-exporter        	|                 	
-| hra-kg-releases/hra-kg.v2.2.tar.xz 	| Whole HRA KG, ~5.1GB.                                                                             	| https://cdn.humanatlas.io/hra-kg-releases/hra-kg.v2.2.tar.xz  	|                 	
+| hra-kg-releases/hra-kg.v2.2.tar.xz 	| Whole HRA KG, ~5.1GB.                                                                             	| HRA CDN (https://cdn.humanatlas.io/hra-kg-releases/hra-kg.v2.2.tar.xz) and  and Zenodo ([https://doi.org/10.5281/zenodo.15323983](https://doi.org/10.5281/zenodo.15323983)) 	|                 	
 
 ## Advanced Usage
 
