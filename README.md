@@ -1,4 +1,4 @@
-# Supporting Information for “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph for Linked Open Data”
+# Supporting Information for “Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph”
 
 Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</sup>, Ellen M Quardokus<sup>1</sup>, Mark Musen<sup>2</sup>, Katy Börner<sup>1\*</sup>
 
