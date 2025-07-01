@@ -14,11 +14,11 @@ Andreas Bueckle<sup>1*</sup>, Bruce W. Herr II<sup>1*</sup>, Josef Hardi<sup>2</
 
 # Links
 
+- Link to paper: [https://www.nature.com/articles/s41597-025-05183-6](https://www.nature.com/articles/s41597-025-05183-6)
 - Link to HuBMAP Publication page: [https://portal.hubmapconsortium.org/browse/publication/213e89c86bfd78338640532dff546aa3](https://portal.hubmapconsortium.org/browse/publication/213e89c86bfd78338640532dff546aa3)
-- Link to preprint: [https://doi.org/10.1101/2024.12.22.630006](https://doi.org/10.1101/2024.12.22.630006)
 - Link to GitHub: [https://github.com/cns-iu/hra-kg-supporting-information](https://github.com/cns-iu/hra-kg-supporting-information)
 - Link to LOD server: [https://lod.humanatlas.io](https://lod.humanatlas.io)
-- Link to HRA Dashboard with HRA KG data as of HRA v2.2: [https://apps.humanatlas.io/dashboard/data](https://apps.humanatlas.io/dashboard/data)
+- Link to HRA Dashboard with HRA KG data (v2.3): [https://apps.humanatlas.io/dashboard/data](https://apps.humanatlas.io/dashboard/data)
 
 # Basic Usage
 
