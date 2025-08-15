@@ -71,6 +71,10 @@ Some queries require you to specify query parameters before running it. The quer
 
 The query needs to know which table you would like. It thus presents a query parameter that requires an identifier for an ASCT+B table (1), see **Figure 4**. The default value for the *asctb* query parameter is the PURL for the lymph node. Clicking the Fill Example button (2) will fill this default value in for you (3). When you then run the query, you get your response in the response field (4). Of course, you can add any other PURL. For example, the one for the brain is [https://purl.humanatlas.io/asct-b/allen-brain](https://purl.humanatlas.io/asct-b/allen-brain). 
 
+# HRA KG Explorer
+This tutorial explains how to use the [HRA KG Explorer User Interface](https://apps.humanatlas.io/kg-explorer/):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KFIVSO5F8aE?si=MenoOKsMoceVM3Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Example Queries
 
 Frequently used queries run via the SPARQL endpoint of the HRA API are listed in Table 1. All queries use data from the HRA v2.2 and the table reports counts for HRA DOs retrieved on April 2, 2024; note that the paper reports data available on April 2, 2024. To explore other queries, for additional documentation, and to get up-to-date results, visit [https://apps.humanatlas.io/api/grlc/hra.html](https://apps.humanatlas.io/api/grlc/hra.html) for HRA queries and [https://apps.humanatlas.io/api/grlc/hra-pop.html](https://apps.humanatlas.io/api/grlc/hra-pop.html) for HRApop queries.
