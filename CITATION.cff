@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph"
+message: "If you use this work, please cite it as below."
+type: article
+authors:
+  - family-names: Bueckle
+    given-names: Andreas
+  - family-names: Herr
+    given-names: Bruce W.
+  - family-names: Hardi
+    given-names: Josef
+  - family-names: Quardokus
+    given-names: Ellen M.
+  - family-names: Musen
+    given-names: Mark A.
+  - family-names: Börner
+    given-names: Katy
+journal: "Scientific Data"
+publisher: "Nature Publishing Group"
+year: 2025
+month: 7
+volume: 12
+issue: 1
+pages: 1100
+doi: "10.1038/s41597-025-05183-6"
+url: "https://www.nature.com/articles/s41597-025-05183-6"
+abstract: >
+  The Human Reference Atlas (HRA) for the healthy, adult body is being developed by a team
+  of international, interdisciplinary experts across 25+ consortia. It provides standard
+  terminologies and data structures for describing specimens, biological structures, and
+  spatial positions of experimental datasets...
+keywords:
+  - Software
+  - Data processing
+  - Data integration
+  - Databases
+  - Data publication and archiving
+license: "© 2025 The Author(s)"
+language: en
